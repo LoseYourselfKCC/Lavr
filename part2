@@ -1,0 +1,14 @@
+//=================================================================================================================
+		// IMBA custom error messages
+		//=================================================================================================================
+
+		"dota_hud_error_cant_use_already_hexed"												"Target already hexed."
+		"dota_hud_error_clone_cant_use"														"Cannot be used by clones."
+		"dota_hud_error_cant_use_on_wards"													"Cannot use on wards."
+		"dota_hud_error_cant_use_on_necrobook"												"Cannot use on necrobook minions."
+		"dota_hud_error_shadow_jaunt_track"													"Ability can only be used on Tracked enemies"
+		"dota_hud_error_cant_cast_on_self"													"Ability cannot be cast on yourself"
+		"dota_hud_error_lich_self_ice_armor"												"Ice Armor is eternally applied to you!"
+		"dota_hud_error_life_drain_self"													"You cannot suck yourself"	
+		"dota_hud_error_mana_drain_self"													"You cannot suck yourself"
+		"dota_hud_error_mana_drain_no_mana"			
