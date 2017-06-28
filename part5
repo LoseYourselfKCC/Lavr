@@ -1,0 +1,81 @@
+//=================================================================================================================
+		// Other units' names
+		//=================================================================================================================
+
+		"npc_dummy_unit"																	"Dummy Unit"
+		"npc_dummy_blank"																	"Dummy Blank"
+		"npc_imba_roshan"																	"Roshan"
+		"npc_imba_roshling"																	"Roshling"
+
+		"npc_imba_pugna_nether_ward_1"														"Nether Ward"
+		"npc_imba_pugna_nether_ward_2"														"Nether Ward"
+		"npc_imba_pugna_nether_ward_3"														"Nether Ward"
+		"npc_imba_pugna_nether_ward_4"														"Nether Ward"
+		"npc_imba_pugna_nether_ward_5"														"Nether Ward"
+		"npc_imba_pugna_nether_ward_6"														"Nether Ward"
+		"npc_imba_pugna_nether_ward_7"														"Nether Ward"
+
+		"npc_lycan_wolf1"																	"Wolf Pup"
+		"npc_lycan_wolf2"																	"Wolf"
+		"npc_lycan_wolf3"																	"Dire Wolf"
+		"npc_lycan_wolf4"																	"Alpha Wolf"
+		"npc_lycan_wolf5"																	"Shadow Wolf"
+		"npc_lycan_wolf6"																	"Nightclaw"
+
+		"npc_imba_enigma_eidolon_1"															"Lesser Eidolon"
+		"npc_imba_enigma_eidolon_2"															"Eidolon"
+		"npc_imba_enigma_eidolon_3"															"Greater Eidolon"
+		"npc_imba_enigma_eidolon_4"															"Dire Eidolon"
+
+		"npc_imba_juggernaut_healing_ward"													"Healing Ward"
+		"npc_imba_juggernaut_healing_totem"													"Healing Totem"
+
+		"npc_imba_techies_land_mine"														"Land Mine"
+		"npc_imba_techies_stasis_trap"														"Stasis Trap"
+		"npc_imba_techies_minefield_sign"													"Minefield Sign"
+
+		"npc_imba_venomancer_plague_ward"													"Plague Ward"
+		"npc_imba_venomancer_scourge_ward"													"Scourge Ward"
+
+		"npc_imba_warlock_golem_1"															"Chaotic Golem"
+		"npc_imba_warlock_golem_2"															"Chaotic Golem"
+		"npc_imba_warlock_golem_3"															"Chaotic Golem"
+		"npc_imba_warlock_golem_4"															"Chaotic Golem"
+		"npc_imba_warlock_golem_5"															"Chaotic Golem"
+		"npc_imba_warlock_golem_6"															"Chaotic Golem"
+		"npc_imba_warlock_demonic_ascension"												"Ascension Demon"
+		"npc_imba_warlock_upheaval_demon"													"Upheaval Demon"
+
+		"npc_imba_wraith_king_wraith"														"Wraith"
+
+		"npc_imba_techies_proximity_mine"													"Proximity Mine"
+		"npc_imba_techies_stasis_trap"														"Stasis Trap"
+		"npc_imba_techies_minefield_sign"													"Minefield Sign"
+		"npc_imba_techies_remote_mine"														"Remote Mine"
+		"npc_imba_techies_blast_off_piggy"													"Blast Pig"
+
+		"npc_imba_goodguys_mega_hulk"														"Radiant Behemoth"
+		"npc_imba_badguys_mega_hulk"														"Dire Behemoth"
+
+		"npc_imba_necronomicon_warrior_1"													"Necrowarrior"
+		"npc_imba_necronomicon_warrior_2"													"Necrowarrior MK2"
+		"npc_imba_necronomicon_warrior_3"													"Necrowarrior MK3"
+		"npc_imba_necronomicon_warrior_4"													"Necrowarrior MK4"
+		"npc_imba_necronomicon_warrior_5"													"Necrogod"
+		"npc_imba_necronomicon_archer_1"													"Necroarcher"
+		"npc_imba_necronomicon_archer_2"													"Necroarcher MK2"
+		"npc_imba_necronomicon_archer_3"													"Necroarcher MK3"
+		"npc_imba_necronomicon_archer_4"													"Necroarcher MK4"
+		"npc_imba_necronomicon_archer_5"													"Dark Terminator"
+
+		"npc_imba_contributor_hjort"														"Hjort"
+		"npc_imba_contributor_martyn"														"Martyn Garcia"
+		"npc_imba_contributor_mikkel"														"Mikkel Garcia"
+		"npc_imba_contributor_anees"														"Anees Sabet"
+		"npc_imba_contributor_swizard"														"Swizard"
+		"npc_imba_contributor_phroureo"														"Phroureo"
+		"npc_imba_contributor_catchy"														"Catchy"
+		"npc_imba_contributor_hewdraw"														"Hewdraw"
+		"npc_imba_contributor_zimber"														"Zimberzimber"
+		"npc_imba_contributor_matt"															"Matt"
+		"npc_imba_contributor_maxime"
