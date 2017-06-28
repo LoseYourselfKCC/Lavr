@@ -1,0 +1,493 @@
+//=================================================================================================================
+		// Custom talents
+		//=================================================================================================================
+
+		// Abaddon 
+		"Dota_Tooltip_Ability_special_bonus_imba_abaddon_1"						"+150 к дальности Aphotic Shield"
+		"Dota_Tooltip_Ability_special_bonus_imba_abaddon_2"						"+45 с. к длительности Aphotic Shield"
+		"Dota_Tooltip_Ability_special_bonus_imba_abaddon_3"						"-1.5 с. перезарядки Mist Coil"
+		"Dota_Tooltip_Ability_special_bonus_imba_abaddon_4"						"+5% скорости движения/+30 скорости атаки Curse of Avernus"
+		"Dota_Tooltip_Ability_special_bonus_imba_abaddon_5"						"+200 щита Aphotic Shield"
+		"Dota_Tooltip_Ability_special_bonus_imba_abaddon_6"						"+50% Overchannel power"
+		"Dota_Tooltip_Ability_special_bonus_imba_abaddon_7"						"+1 с. длительность Borrowed Time"
+		"Dota_Tooltip_Ability_special_bonus_imba_abaddon_8"						"+300 дальность ауры Borrowed Time"
+
+		// Anti mage 
+		"Dota_Tooltip_Ability_special_bonus_imba_antimage_1"					"-1 с. перезарядки Blink"
+		"Dota_Tooltip_Ability_special_bonus_imba_antimage_2"					"+1 с. к Spell Shield"
+		"Dota_Tooltip_Ability_special_bonus_imba_antimage_3"					"-0.2 Blink cast point"
+		"Dota_Tooltip_Ability_special_bonus_imba_antimage_4"					"+10% of target's missing mana to Mana Break damage"
+		"Dota_Tooltip_Ability_special_bonus_imba_antimage_5"					"+10% Blink mana burned"
+		"Dota_Tooltip_Ability_special_bonus_imba_antimage_6"					"+35 Mana Break mana burned"
+		"Dota_Tooltip_Ability_special_bonus_imba_antimage_7"					"-50 Mana Void cooldown"
+		"Dota_Tooltip_Ability_special_bonus_imba_antimage_8"					"Mana Void counts missing mana from all targets in the AOE"
+
+		// Axe 
+		"Dota_Tooltip_Ability_special_bonus_imba_axe_1"							"+90 к радиусу Berserker's Call"
+		"Dota_Tooltip_Ability_special_bonus_imba_axe_2"							"+1 брони за каждый полученный удар во время Berserker's Call"
+		"Dota_Tooltip_Ability_special_bonus_imba_axe_3"							"+90 к радиусу Counter Helix"
+		"Dota_Tooltip_Ability_special_bonus_imba_axe_4"							"+30% силы как бонусный урон для Counter Helix"
+		"Dota_Tooltip_Ability_special_bonus_imba_axe_5"							"+150 к скорости атаки отвлеченных Berserker's Call "
+		"Dota_Tooltip_Ability_special_bonus_imba_axe_6"							"+100 к урону в секундля для Battle Hunger"
+		"Dota_Tooltip_Ability_special_bonus_imba_axe_7"							"+400 к порогу убийства Culling Blade"
+		"Dota_Tooltip_Ability_special_bonus_imba_axe_8"							"+650 дальности применения Culling Blade"
+
+		// Bane 
+		"DOTA_Tooltip_ability_special_bonus_imba_bane_1"						"+1.5 с. к длительности эффекта Brain Sap"
+		"DOTA_Tooltip_ability_special_bonus_imba_bane_2"						"+1 с. к длительности уменьшения дальнсости видения Nightmare"
+		"DOTA_Tooltip_ability_special_bonus_imba_bane_3"						"+75 к уменьшению урона от атак Enfeeble"
+		"DOTA_Tooltip_ability_special_bonus_imba_bane_4"						"+300 дальности применения Brain Sap"
+		"DOTA_Tooltip_ability_special_bonus_imba_bane_5"						"+200 к урону/лечению Brain Sap"
+		"DOTA_Tooltip_ability_special_bonus_imba_bane_6"						"+2 с. максимума  Maximum Fiends Grip channel time"
+		"DOTA_Tooltip_ability_special_bonus_imba_bane_7"						"+6s Allied Nightmare invulnerability duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_bane_8"						"-30s Fiends Grip cooldown"
+
+		// Blyatcyka
+		"DOTA_Tooltip_ability_special_bonus_imba_bloodseeker_1"				"10% Bloodrage Amplification Shift"
+		"DOTA_Tooltip_ability_special_bonus_imba_bloodseeker_2"				"+25 Blood Rite Cooldown Reduction"
+		"DOTA_Tooltip_ability_special_bonus_imba_bloodseeker_3"				"Rupture Heals For 100% Of Damage"
+		"DOTA_Tooltip_ability_special_bonus_imba_bloodseeker_4"				"+2s Thirst On-Hit Buff Duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_bloodseeker_5"				"+25% Rupture Damage On Attack/Cast"
+		"DOTA_Tooltip_ability_special_bonus_imba_bloodseeker_6"				"+700 Rupture Distance Trigger Cap"
+		"DOTA_Tooltip_ability_special_bonus_imba_bloodseeker_7"				"+5% Thirst Max Move Speed Bonus And +26 Max Damage Bonus"
+		"DOTA_Tooltip_ability_special_bonus_imba_bloodseeker_8"				"Bloodrage +3% Bonus Amp Per 5% Missing Health"
+
+		// Bounty Hunter
+		"Dota_Tooltip_Ability_special_bonus_imba_bounty_hunter_1"				"+200 Shadow Walk True sight"
+		"Dota_Tooltip_Ability_special_bonus_imba_bounty_hunter_2"				"+15% Jinada slow"
+		"Dota_Tooltip_Ability_special_bonus_imba_bounty_hunter_3"				"+75 Shuriken Toss damage"
+		"Dota_Tooltip_Ability_special_bonus_imba_bounty_hunter_4"				"-2 Track cooldown"
+		"Dota_Tooltip_Ability_special_bonus_imba_bounty_hunter_5"				"Global Shuriken Toss bounce"
+		"Dota_Tooltip_Ability_special_bonus_imba_bounty_hunter_6"				"+30 Track duration"
+		"Dota_Tooltip_Ability_special_bonus_imba_bounty_hunter_7"				"-5 Jinada cooldown"
+		"Dota_Tooltip_Ability_special_bonus_imba_bounty_hunter_8"				"Track is hidden and unpurgable"
+
+		// Centaur Warrunner
+		"Dota_Tooltip_Ability_special_bonus_imba_centaur_1"						"+100% Double Edge strength self damage reduction"
+		"Dota_Tooltip_Ability_special_bonus_imba_centaur_2"						"Hoof Stomp's arena buff applies to allies"
+		"Dota_Tooltip_Ability_special_bonus_imba_centaur_3"						"+110 Double Edge radius"
+		"Dota_Tooltip_Ability_special_bonus_imba_centaur_4"						"+75 Hoof Stomp radius"
+		"Dota_Tooltip_Ability_special_bonus_imba_centaur_5"						"+1 Hoof Stomp arena/stun duration"
+		"Dota_Tooltip_Ability_special_bonus_imba_centaur_6"						"Return becomes a 900 AoE aura, affecting nearby heroes"
+		"Dota_Tooltip_Ability_special_bonus_imba_centaur_7"						"+5 Damage block per Thickening Armor stack"
+		"Dota_Tooltip_Ability_special_bonus_imba_centaur_8"						"+1 Stampede duration on every hero trampled"
+
+		// Clinkz
+		"DOTA_Tooltip_ability_special_bonus_imba_clinkz_1"						"+150 attack range while mounted"
+		"DOTA_Tooltip_ability_special_bonus_imba_clinkz_2"						"+200 Skeleton Walk's Spook radius"
+		"DOTA_Tooltip_ability_special_bonus_imba_clinkz_3"						"+35 Searing Arrows damage"	
+		"DOTA_Tooltip_ability_special_bonus_imba_clinkz_4"						"Searing Arrows active gets 400 AoE"
+		"DOTA_Tooltip_ability_special_bonus_imba_clinkz_5"						"+80 Strafe attack speed"
+		"DOTA_Tooltip_ability_special_bonus_imba_clinkz_6"						"Skeleton Walk's move speed persists for 5 seconds"
+		"DOTA_Tooltip_ability_special_bonus_imba_clinkz_7"						"+50% Death Pact bonuses"
+		"DOTA_Tooltip_ability_special_bonus_imba_clinkz_8"						"10% Death Pact bonuses when killing enemy in 5s."
+
+		// DAZZUL
+		"DOTA_Tooltip_Ability_special_bonus_imba_dazzle_1"						"Shallow Grave больше не требует маны"
+		"DOTA_Tooltip_Ability_special_bonus_imba_dazzle_2"						"+175 дистанции отскока Shadow Wave"
+		"DOTA_Tooltip_Ability_special_bonus_imba_dazzle_3"						"+65 к площади урона Shadow Wave"
+		"DOTA_Tooltip_Ability_special_bonus_imba_dazzle_4"						"+60 к урону/лечению Shadow Wave"
+		"DOTA_Tooltip_Ability_special_bonus_imba_dazzle_5"						"-5 секунд к перезарядке Poison Touch"
+		"DOTA_Tooltip_Ability_special_bonus_imba_dazzle_6"						"Weave срабатывает и проходит в два раза быстрее"
+		"DOTA_Tooltip_Ability_special_bonus_imba_dazzle_7"						"-15 секунд к перезарядке Nothl Protection"
+		"DOTA_Tooltip_Ability_special_bonus_imba_dazzle_8"						"-15 секунд к перезарядке Weave "
+
+		// Disraptor
+		"DOTA_Tooltip_ability_special_bonus_imba_disruptor_1"					"Kinetic Field now always pulls units inside it"
+		"DOTA_Tooltip_ability_special_bonus_imba_disruptor_2"					"+1.25 Glimpse Storm linger duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_disruptor_3"					"+0.5 move speed per Stormbearer stack"
+		"DOTA_Tooltip_ability_special_bonus_imba_disruptor_4"					"Thunder Strike slows the main target briefly"  
+		"DOTA_Tooltip_ability_special_bonus_imba_disruptor_5"					"+50 maximum Static Storm damage"
+		"DOTA_Tooltip_ability_special_bonus_imba_disruptor_6"					"+1.5 Kinetic Field duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_disruptor_7"					"+1.25 Static Storm damage per pulse"
+		"DOTA_Tooltip_ability_special_bonus_imba_disruptor_8"					"+4 Thunder Strike duration, strikes occur 20% faster"
+
+		// Drow Ranger
+		"DOTA_Tooltip_ability_special_bonus_imba_drow_ranger_1"					"+1 Frost Arrows duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_drow_ranger_2"					"25% chance to instantly kill non-ancient creeps"
+		"DOTA_Tooltip_ability_special_bonus_imba_drow_ranger_3"					"+6% Precision Aura damage"
+		"DOTA_Tooltip_ability_special_bonus_imba_drow_ranger_4"					"+400 Gust effect/knockback range"
+		"DOTA_Tooltip_ability_special_bonus_imba_drow_ranger_5"					"+30 Agility when Marksmanship is active"
+		"DOTA_Tooltip_ability_special_bonus_imba_drow_ranger_6"					"+250 Deadeye vision bonuses"
+		"DOTA_Tooltip_ability_special_bonus_imba_drow_ranger_7"					"Deadeye passively affects allied heroes as well"
+		"DOTA_Tooltip_ability_special_bonus_imba_drow_ranger_8"					"Marksmanship is no longer disabled"
+
+		// Jakiro
+		"DOTA_Tooltip_ability_special_bonus_imba_jakiro_1"						"+350 Dual Breath range"
+		"DOTA_Tooltip_ability_special_bonus_imba_jakiro_2"						"+20 Fire Breath DPS, +8% Ice Breath slow"
+		"DOTA_Tooltip_ability_special_bonus_imba_jakiro_3"						"+6 sec Ice Path duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_jakiro_4"						"+400 Liquid Fire cast range"
+		"DOTA_Tooltip_ability_special_bonus_imba_jakiro_5"						"+1.25 sec Ice Path stun duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_jakiro_6"						"+500 Dual Breath speed"
+		"DOTA_Tooltip_ability_special_bonus_imba_jakiro_7"						"+30% Ice Path Antipode effect"
+		"DOTA_Tooltip_ability_special_bonus_imba_jakiro_8"						"Macropyre slows enemies (5% * 1.05% per tick)"
+
+		// Juggernaut
+		"Dota_Tooltip_Ability_special_bonus_imba_juggernaut_1"					"+5% Blade Dance crit chance"
+		"Dota_Tooltip_Ability_special_bonus_imba_juggernaut_2"					"+1% Healing Ward heal per second"
+		"Dota_Tooltip_Ability_special_bonus_imba_juggernaut_3"					"+40% Blade Fury evasion"
+		"Dota_Tooltip_Ability_special_bonus_imba_juggernaut_4"					"+170 Blade Fury damage per second"
+		"Dota_Tooltip_Ability_special_bonus_imba_juggernaut_5"					"+4 Wind Dance agility on Crit"
+		"Dota_Tooltip_Ability_special_bonus_imba_juggernaut_6"					"Blade Fury gains Blade Dance's effects"
+		"Dota_Tooltip_Ability_special_bonus_imba_juggernaut_7"					"-6s Blade Fury cooldown"
+		"Dota_Tooltip_Ability_special_bonus_imba_juggernaut_8"					"-2s Blade Dance Secret Blade cooldown"
+
+		// Kunkkarrrrrrr
+		"DOTA_Tooltip_ability_special_bonus_imba_kunkka_1"						"+7 gold gained from each last hit"
+		"DOTA_Tooltip_ability_special_bonus_imba_kunkka_2"						"-2 Ebb and Flow cooldown"
+		"DOTA_Tooltip_ability_special_bonus_imba_kunkka_3"						"+200 Torrent radius"
+		"DOTA_Tooltip_ability_special_bonus_imba_kunkka_4"						"+75 Torrent secondary damage"
+		"DOTA_Tooltip_ability_special_bonus_imba_kunkka_5"						"X marks the spot now marks all enemies in 275 AoE"
+		"DOTA_Tooltip_ability_special_bonus_imba_kunkka_6"						"+15% Ebb and Flow tsunami chance"
+		"DOTA_Tooltip_ability_special_bonus_imba_kunkka_7"						"-2 Tidebringer cooldown"
+		"DOTA_Tooltip_ability_special_bonus_imba_kunkka_8"						"Rum absorbs damage instead of delaying it"
+
+		// Lich
+		"DOTA_Tooltip_ability_special_bonus_imba_lich_1"						"-75% Chain Frost bounce delay"			
+		"DOTA_Tooltip_ability_special_bonus_imba_lich_2"						"+50% Sacrifice bonuses"
+		"DOTA_Tooltip_ability_special_bonus_imba_lich_3"						"+175 Chain Frost bounce range"
+		"DOTA_Tooltip_ability_special_bonus_imba_lich_4"						"-4 Frost Nova cooldown"
+		"DOTA_Tooltip_ability_special_bonus_imba_lich_5"						"+1 Cold Front freeze duration"			
+		"DOTA_Tooltip_ability_special_bonus_imba_lich_6"						"+36 Ice Armor on buildings"
+		"DOTA_Tooltip_ability_special_bonus_imba_lich_7"						"Chain Frost bounces infinitely"
+		"DOTA_Tooltip_ability_special_bonus_imba_lich_8"						"+1 Cold Front stack from all spells"
+
+		// Lina
+		"DOTA_Tooltip_ability_special_bonus_imba_lina_1"						"+2 дополнительных Dragon Slaves"
+		"DOTA_Tooltip_ability_special_bonus_imba_lina_2"						"+80 к урону Light Strike Array"
+		"DOTA_Tooltip_ability_special_bonus_imba_lina_3"						"-4 секунд к перезарядке Dragon Slave"
+		"DOTA_Tooltip_ability_special_bonus_imba_lina_4"						"+6 Light Strike Arrays появляются по сторонам от основной"
+		"DOTA_Tooltip_ability_special_bonus_imba_lina_5"						"+4% скорости передвижения / 40 скорости атаки за стак Fiery Soul"
+		"DOTA_Tooltip_ability_special_bonus_imba_lina_6"						"Laguna Blade оглушает цели на 0.75 секунд"
+		"DOTA_Tooltip_ability_special_bonus_imba_lina_7"						"+1 к максимуму стаков Fiery Soul"
+		"DOTA_Tooltip_ability_special_bonus_imba_lina_8"						"Blazing Strike (детали в Fiery Soul)"
+
+		// Lion
+		"DOTA_Tooltip_ability_special_bonus_imba_lion_1"						"Earth Spikes ответвляется также от крипов"					
+		"DOTA_Tooltip_ability_special_bonus_imba_lion_2"						"+70 к урону Earth Spike"	
+		"DOTA_Tooltip_ability_special_bonus_imba_lion_3"						"+150 к радиусу Chain Hex"
+		"DOTA_Tooltip_ability_special_bonus_imba_lion_4"						"Mana Drain замедляет цель в зависимости от отсутствющей маны"
+		"DOTA_Tooltip_ability_special_bonus_imba_lion_5"						"-3.5 к длительность Trigger Finger"
+		"DOTA_Tooltip_ability_special_bonus_imba_lion_6"						"Chain Hex одновременно распространяется на двух врагов"
+		"DOTA_Tooltip_ability_special_bonus_imba_lion_7"						"+300 к радиусу Frog Panic"
+		"DOTA_Tooltip_ability_special_bonus_imba_lion_8"						"Mana Drain нацеливается на всех врагов в радиусе ауры"
+
+		// Lycan
+		"DOTA_Tooltip_ability_special_bonus_imba_lycan_1"						"+1 к уровню мощности волков."		
+		"DOTA_Tooltip_ability_special_bonus_imba_lycan_2"						"+2%/2 Feral Impulse урону/регенерации за союзника"
+		"DOTA_Tooltip_ability_special_bonus_imba_lycan_3"						"+12 к длительности действия Howl"
+		"DOTA_Tooltip_ability_special_bonus_imba_lycan_4"						"+2 к урону Wolfsbane за стак"			
+		"DOTA_Tooltip_ability_special_bonus_imba_lycan_5"						"+2 к максимуму призванных волков/зарядов"
+		"DOTA_Tooltip_ability_special_bonus_imba_lycan_6"						"x2 к стакам Wicked Crunch при ударе/максимальных стаков"
+		"DOTA_Tooltip_ability_special_bonus_imba_lycan_7"						"Увеличение потенциала Howl (детали в самом Howl)"
+		"DOTA_Tooltip_ability_special_bonus_imba_lycan_8"						"+15 к длительности Shapeshift"
+
+		// Mirana
+		"DOTA_Tooltip_ability_special_bonus_imba_mirana_1"						"+100 Starstorm search radius"			
+		"DOTA_Tooltip_ability_special_bonus_imba_mirana_2"						"+4 Leap aura duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_mirana_3"						"+1 Sacred Arrow stun duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_mirana_4"						"+2 Multishot Sacred Arrows"
+		"DOTA_Tooltip_ability_special_bonus_imba_mirana_5"						"+100 Leap attack speed bonus"			
+		"DOTA_Tooltip_ability_special_bonus_imba_mirana_6"						"Leaping launches a free Sacred Arrow forward"
+		"DOTA_Tooltip_ability_special_bonus_imba_mirana_7"						"-1.25 Starstorm wave delay"
+		"DOTA_Tooltip_ability_special_bonus_imba_mirana_8"						"-40 Moonlight Shadow cooldown"
+
+		// Magnus
+		"DOTA_Tooltip_ability_special_bonus_imba_magnataur_1"					"+12 Shockwave polarize duration"		
+		"DOTA_Tooltip_ability_special_bonus_imba_magnataur_2"					"+125 Reverse Polarity damage"
+		"DOTA_Tooltip_ability_special_bonus_imba_magnataur_3"					"+15% Empower damage/cleave/splash"
+		"DOTA_Tooltip_ability_special_bonus_imba_magnataur_4"					"-11 Skewer cooldown"			
+		"DOTA_Tooltip_ability_special_bonus_imba_magnataur_5"					"-4 Shockwave cooldown"
+		"DOTA_Tooltip_ability_special_bonus_imba_magnataur_6"					"+8%/50 Supercharged move/attack speed"
+		"DOTA_Tooltip_ability_special_bonus_imba_magnataur_7"					"+100 Reverse Polarity radius"
+		"DOTA_Tooltip_ability_special_bonus_imba_magnataur_8"					"+250 Reverse Polarity polarized pull distance"	
+
+		// Necrolyte
+		"DOTA_Tooltip_ability_special_bonus_imba_necrolyte_1"					"+125 к радиусу Death Pulse"			
+		"DOTA_Tooltip_ability_special_bonus_imba_necrolyte_2"					"Attacking enemy heroes now grants Sadist"
+		"DOTA_Tooltip_ability_special_bonus_imba_necrolyte_3"					"-1 Death Pulse cooldown"
+		"DOTA_Tooltip_ability_special_bonus_imba_necrolyte_4"					"+25% Heartstopper Aura healing reduction"
+		"DOTA_Tooltip_ability_special_bonus_imba_necrolyte_5"					"+300 Ghost Shroud effect radius"			
+		"DOTA_Tooltip_ability_special_bonus_imba_necrolyte_6"					"+10 Sadist health/mana regen"
+		"DOTA_Tooltip_ability_special_bonus_imba_necrolyte_7"					"+50%/50 Reaper's Scythe damage/spell power reduction"
+		"DOTA_Tooltip_ability_special_bonus_imba_necrolyte_8"					"+1% Heartstopper Aura damage per second"
+
+		// Night Stalker
+		"DOTA_Tooltip_ability_special_bonus_imba_night_stalker_1"				"+200 к уменьшению видимости умения Void"		
+		"DOTA_Tooltip_ability_special_bonus_imba_night_stalker_2"				"+25% к шансу промаха умения Crippling Fear"	
+		"DOTA_Tooltip_ability_special_bonus_imba_night_stalker_3"				"+10%/20 к скорости передвижения/атаки умения Hunter in the Night"	
+		"DOTA_Tooltip_ability_special_bonus_imba_night_stalker_4"				"+1 к длительности Night Terror"	
+		"DOTA_Tooltip_ability_special_bonus_imba_night_stalker_5"				"+400 к видимости ночью умения Stalker in the Night"		
+		"DOTA_Tooltip_ability_special_bonus_imba_night_stalker_6"				"Crippling Fear now also mutes the target"
+		"DOTA_Tooltip_ability_special_bonus_imba_night_stalker_7"				"-150 vision range to enemies in Darkness"
+		"DOTA_Tooltip_ability_special_bonus_imba_night_stalker_8"				"-8s Crippling Fear cooldown"
+
+		// Nyx Assassin
+		"DOTA_Tooltip_ability_special_bonus_imba_nyx_assassin_1"				"+50 к урону Impale"
+		"DOTA_Tooltip_ability_special_bonus_imba_nyx_assassin_2"				"-3 Scarab Parasite explosion delay"
+		"DOTA_Tooltip_ability_special_bonus_imba_nyx_assassin_3"				"+100% Spiked Carapace damage reflection"
+		"DOTA_Tooltip_ability_special_bonus_imba_nyx_assassin_4"				"+1 Relive Suffering damage duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_nyx_assassin_5"				"+1 Mana Burn intelligence multiplier"
+		"DOTA_Tooltip_ability_special_bonus_imba_nyx_assassin_6"				"+20% Vendetta movement speed"
+		"DOTA_Tooltip_ability_special_bonus_imba_nyx_assassin_7"				"+1 Spiked Carapace duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_nyx_assassin_8"				"+475 Maximum Vendetta stored damage"
+
+		// Omniknight
+		"DOTA_Tooltip_ability_special_bonus_imba_omniknight_1"					"+75% Hammer of Virtue damage to heal"
+		"DOTA_Tooltip_ability_special_bonus_imba_omniknight_2"					"Purification autocasts when in below 20% health"
+		"DOTA_Tooltip_ability_special_bonus_imba_omniknight_3"					"+10/10% Degen Aura attackspeed/movespeed"
+		"DOTA_Tooltip_ability_special_bonus_imba_omniknight_4"					"Purification automatically applies on a second target"
+		"DOTA_Tooltip_ability_special_bonus_imba_omniknight_5"					"+15% Guardian Angel shield health"
+		"DOTA_Tooltip_ability_special_bonus_imba_omniknight_6"					"Repel affects all nearby allies in 600 AoE"
+		"DOTA_Tooltip_ability_special_bonus_imba_omniknight_7"					"-40s Guardian Angel cooldown"
+		"DOTA_Tooltip_ability_special_bonus_imba_omniknight_8"					"+230 Purification heal/damage increase"
+
+		// Outworld Devourer
+		"DOTA_Tooltip_ability_special_bonus_imba_obsidian_destroyer_1"			"+1% Arcane Orb Max Mana as damage"
+		"DOTA_Tooltip_ability_special_bonus_imba_obsidian_destroyer_2"			"+200 Astral Imprisonment cast range"
+		"DOTA_Tooltip_ability_special_bonus_imba_obsidian_destroyer_3"			"+2 Arcane Orb intelligence steal per attack"
+		"DOTA_Tooltip_ability_special_bonus_imba_obsidian_destroyer_4"			"+50% Stolen intelligence duration from all sources"
+		"DOTA_Tooltip_ability_special_bonus_imba_obsidian_destroyer_5"			"Essence Aura heals 0.5x of OD's int when triggered"
+		"DOTA_Tooltip_ability_special_bonus_imba_obsidian_destroyer_6"			"+100 Astral Imprisonment move speed"
+		"DOTA_Tooltip_ability_special_bonus_imba_obsidian_destroyer_7"			"Sanity's Eclipse pierces magic immunity"
+		"DOTA_Tooltip_ability_special_bonus_imba_obsidian_destroyer_8"			"caster's Essence Aura procs goes beyond max mana"
+
+		// Queen of Pain
+		"DOTA_Tooltip_ability_special_bonus_imba_queenofpain_1"					"+100% Delightful Torment effect on Sonic Wave"
+		"DOTA_Tooltip_ability_special_bonus_imba_queenofpain_2"					"+20% Blink Scream of Pain damage"
+		"DOTA_Tooltip_ability_special_bonus_imba_queenofpain_3"					"+100 Scream of Pain radius"			
+		"DOTA_Tooltip_ability_special_bonus_imba_queenofpain_4"					"+35% Sonic Wave health absorption"
+		"DOTA_Tooltip_ability_special_bonus_imba_queenofpain_5"					"+50% Scream of Pain damage reflected"
+		"DOTA_Tooltip_ability_special_bonus_imba_queenofpain_6"					"+50% Sonic Wave end radius/travel distance"
+		"DOTA_Tooltip_ability_special_bonus_imba_queenofpain_7"					"Scream of Pain applies Shadow Strike on enemies hit"
+		"DOTA_Tooltip_ability_special_bonus_imba_queenofpain_8"					"-2 Blink cooldown"
+
+		// Phantom Assassin
+		"DOTA_Tooltip_ability_special_bonus_imba_phantom_assassin_1"			"+35 к урону Stifling Dagger"
+		"DOTA_Tooltip_ability_special_bonus_imba_phantom_assassin_2"			"+30 к скорости атаки Phantom Strike"
+		"DOTA_Tooltip_ability_special_bonus_imba_phantom_assassin_3"			"+1 к количеству кидаемых Stifling Dagger"
+		"DOTA_Tooltip_ability_special_bonus_imba_phantom_assassin_4"			"+5% к шансу критического удара Phantom Strike"
+		"DOTA_Tooltip_ability_special_bonus_imba_phantom_assassin_5"			"+100% к критическому урону Coup de Grace"
+		"DOTA_Tooltip_ability_special_bonus_imba_phantom_assassin_6"			"+2 к количеству атак Phantom Strike"
+		"DOTA_Tooltip_ability_special_bonus_imba_phantom_assassin_7"			"+8s к длительности Die Hard умения Coup de Grace"
+		"DOTA_Tooltip_ability_special_bonus_imba_phantom_assassin_8"			"Blur имеет 30% шанс уклонится от любого урона"
+
+		// Pugna
+		"DOTA_Tooltip_ability_special_bonus_imba_pugna_1"						"-1s Nether Blast cooldown"
+		"DOTA_Tooltip_ability_special_bonus_imba_pugna_2"						"+0.5 Nether Ward zap damage per mana used"
+		"DOTA_Tooltip_ability_special_bonus_imba_pugna_3"						"+125 Nether Blast damage"
+		"DOTA_Tooltip_ability_special_bonus_imba_pugna_4"						"+15% From The Nether Reaches heal/damage"
+		"DOTA_Tooltip_ability_special_bonus_imba_pugna_5"						"+50% Life Drain heal"
+		"DOTA_Tooltip_ability_special_bonus_imba_pugna_6"						"+1s Decrepify duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_pugna_7"						"+35% Essence of Life base slow"
+		"DOTA_Tooltip_ability_special_bonus_imba_pugna_8"						"+6% Nether Weakness magic resistance per blast"
+
+		// Shadow Fiend		
+		"DOTA_Tooltip_ability_special_bonus_imba_nevermore_1"					"-20 Shadowraze mana cost"
+		"DOTA_Tooltip_ability_special_bonus_imba_nevermore_2"					"+2 Presence armor reduction, +1 per raze"
+		"DOTA_Tooltip_ability_special_bonus_imba_nevermore_3"					"-3s Shadowraze cooldown"
+		"DOTA_Tooltip_ability_special_bonus_imba_nevermore_4"					"+0.4% lifesteal per Necromastery soul"		
+		"DOTA_Tooltip_ability_special_bonus_imba_nevermore_5"					"Presence gains a soul from all heroes affected"
+		"DOTA_Tooltip_ability_special_bonus_imba_nevermore_6"					"+10 Necromastery soul limit"
+		"DOTA_Tooltip_ability_special_bonus_imba_nevermore_7"					"Necromastery souls are not lost when dying"
+		"DOTA_Tooltip_ability_special_bonus_imba_nevermore_8"					"+2 damage per Necromastery soul"	
+
+		// Skywrath Mage
+		"DOTA_Tooltip_ability_special_bonus_imba_skywrath_mage_1"				"-25 Arcane Bolt mana cost"
+		"DOTA_Tooltip_ability_special_bonus_imba_skywrath_mage_2"				"+1s Ancient Seal duration"			
+		"DOTA_Tooltip_ability_special_bonus_imba_skywrath_mage_3"				"-4s Ancient Seal cooldown"
+		"DOTA_Tooltip_ability_special_bonus_imba_skywrath_mage_4"				"+100% Mystic Flare radius"
+		"DOTA_Tooltip_ability_special_bonus_imba_skywrath_mage_5"				"-1s Arcane Bolt cooldown"
+		"DOTA_Tooltip_ability_special_bonus_imba_skywrath_mage_6"				"Mystic Flare deals the damage in half the duration"		
+		"DOTA_Tooltip_ability_special_bonus_imba_skywrath_mage_7"				"Skywrath gains permanent flying movement"
+		"DOTA_Tooltip_ability_special_bonus_imba_skywrath_mage_8"				"Concussive Shot hits all visible heroes in range"
+
+		// Sand King
+		"DOTA_Tooltip_ability_special_bonus_imba_sand_king_1"					"+100 к радиусу пути Burrowstrike"	
+		"DOTA_Tooltip_ability_special_bonus_imba_sand_king_2"					"+40 к урону в секунду Sandstorm"
+		"DOTA_Tooltip_ability_special_bonus_imba_sand_king_3"					"+275 к дальности применения Burrowstrike"
+		"DOTA_Tooltip_ability_special_bonus_imba_sand_king_4"					"+300 к радиусу притягивания Epicenter"
+		"DOTA_Tooltip_ability_special_bonus_imba_sand_king_5"					"+20% к замедлению Caustic Finale"
+		"DOTA_Tooltip_ability_special_bonus_imba_sand_king_6"					"+4 к количаству толчков Epicenter"
+		"DOTA_Tooltip_ability_special_bonus_imba_sand_king_7"					"Пассивная аура Sandstorm с 1/2 от его значений"
+		"DOTA_Tooltip_ability_special_bonus_imba_sand_king_8"					"Caustic Finale срабатывает от любого урона"
+НЕ ПЕРЕВОДИТЬ. ТУТА ИЗМЕНЕНИЕ. С ПОСЛЕДНЕЙ ВЕРСИИ ВЫТАЩИТЬ НАДА НОРМ ОПИСАНИЕ ТАЛАНТОВ
+		// Silencer
+		"DOTA_Tooltip_ability_special_bonus_imba_silencer_1"					"Mana burned by Arcane Curse now heals you"
+		"DOTA_Tooltip_ability_special_bonus_imba_silencer_2"					"+2 Arcane Curse duration increase from casting"
+		"DOTA_Tooltip_ability_special_bonus_imba_silencer_3"					"+2 Arcane Supremacy intelligence steal"
+		"DOTA_Tooltip_ability_special_bonus_imba_silencer_4"					"Arcane Supremacy now makes you immune to silences"
+		"DOTA_Tooltip_ability_special_bonus_imba_silencer_5"					"+0.25 Glaives of Wisdom silence"
+		"DOTA_Tooltip_ability_special_bonus_imba_silencer_6"					"+25% Glaives of Wisdom intelligence to damage"
+		"DOTA_Tooltip_ability_special_bonus_imba_silencer_7"					"+20% Arcane Curse slow"
+		"DOTA_Tooltip_ability_special_bonus_imba_silencer_8"					"Last Word now gains an innate silencing aura (check the skill)"
+
+		// Slardar
+		"DOTA_Tooltip_ability_special_bonus_imba_slardar_1"						"+125 radius and +50 damage to Rip Current"
+		"DOTA_Tooltip_ability_special_bonus_imba_slardar_2"						"-60 attack speed when Sprinting on enemies"
+		"DOTA_Tooltip_ability_special_bonus_imba_slardar_3"						"+0.25 Forceful Smack duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_slardar_4"						"+12% Slipstream miss/trigger chance"
+		"DOTA_Tooltip_ability_special_bonus_imba_slardar_5"						"Rip Current can always be cast when sprinting"
+		"DOTA_Tooltip_ability_special_bonus_imba_slardar_6"						"Casts a second free Slithereen Crush"
+		"DOTA_Tooltip_ability_special_bonus_imba_slardar_7"						"Corrosive Haze applies in AoE for half armor"
+		"DOTA_Tooltip_ability_special_bonus_imba_slardar_8"						"-3 armor per physical damage on Corrosive Haze"
+
+		// Sniper
+		"DOTA_Tooltip_ability_special_bonus_imba_sniper_1"						"+10% к урону за дальностью Shrapnel"
+		"DOTA_Tooltip_ability_special_bonus_imba_sniper_2"						"Assassinate отталкивает назад всех задетых врагов"
+		"DOTA_Tooltip_ability_special_bonus_imba_sniper_3"						"+50% Headshot/Perfect Shot slow/stun durations"
+		"DOTA_Tooltip_ability_special_bonus_imba_sniper_4"						"-2s к перезарядке Aimed Assault"
+		"DOTA_Tooltip_ability_special_bonus_imba_sniper_5"						"+4 к максимуму зарядов Shrapnel"
+		"DOTA_Tooltip_ability_special_bonus_imba_sniper_6"						"+80% к критическому урону Perfect Shot"
+		"DOTA_Tooltip_ability_special_bonus_imba_sniper_7"						"+1000 к дальности атаки Aimed Assault"
+		"DOTA_Tooltip_ability_special_bonus_imba_sniper_8"						"Глобальная дальность Assassinate"
+
+		// Sven
+		"DOTA_Tooltip_ability_special_bonus_imba_sven_1"						"+70 Storm Hammer effect radius"
+		"DOTA_Tooltip_ability_special_bonus_imba_sven_2"						"+100 Great Cleave length/end radius"
+		"DOTA_Tooltip_ability_special_bonus_imba_sven_3"						"+9% Warcry movement speed"
+		"DOTA_Tooltip_ability_special_bonus_imba_sven_4"						"-15 God's Strength cooldown"
+		"DOTA_Tooltip_ability_special_bonus_imba_sven_5"						"-8 SVEN Bolt cooldown"
+		"DOTA_Tooltip_ability_special_bonus_imba_sven_6"						"+15 Great Cleave armor ignore"
+		"DOTA_Tooltip_ability_special_bonus_imba_sven_7"						"Warcry grants spell immunity for 4 seconds"
+		"DOTA_Tooltip_ability_special_bonus_imba_sven_8"						"+100% God's Strength self damage bonus"
+
+		// Tinker
+		"DOTA_Tooltip_ability_special_bonus_imba_tinker_1"						"-75 Rearm mana cost"
+		"DOTA_Tooltip_ability_special_bonus_imba_tinker_2"						"+2 Heat seaking missiles"
+		"DOTA_Tooltip_ability_special_bonus_imba_tinker_3"						"MotM travels 40% faster/longer"
+		"DOTA_Tooltip_ability_special_bonus_imba_tinker_4"						"+3.5 Homing Missile vision duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_tinker_5"						"+3% MotM specialization chance"
+		"DOTA_Tooltip_ability_special_bonus_imba_tinker_6"						"Rearm grants a shield equal to 25% of your max HP on cast"
+		"DOTA_Tooltip_ability_special_bonus_imba_tinker_7"						"Reduces all cast animations by 70%"
+		"DOTA_Tooltip_ability_special_bonus_imba_tinker_8"						"Rearm's channel time is converted into cooldown time"
+
+		// Troll Warlord
+		"DOTA_Tooltip_ability_special_bonus_imba_troll_warlord_1"				"Berserker's Rage grants +3 armor, +25 movespeed and 1.6 BAT while ranged"
+		"DOTA_Tooltip_ability_special_bonus_imba_troll_warlord_2"				"+10% Whirling Axes (ranged) movement slow"
+		"DOTA_Tooltip_ability_special_bonus_imba_troll_warlord_3"				"-15% Fervor stack loss on target change"
+		"DOTA_Tooltip_ability_special_bonus_imba_troll_warlord_4"				"+6 Fervor attack speed per stack"
+		"DOTA_Tooltip_ability_special_bonus_imba_troll_warlord_5"				"-7s Whirling Axes cooldown"
+		"DOTA_Tooltip_ability_special_bonus_imba_troll_warlord_6"				"+50% Battle Trance duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_troll_warlord_7"				"+10% Bash/Hamstring chance"
+		"DOTA_Tooltip_ability_special_bonus_imba_troll_warlord_8"				"-0.2 Battle Trance BAT improvement"
+
+		// Ursa
+		"DOTA_Tooltip_ability_special_bonus_imba_ursa_1"						"+50% Earthshock distance-based damage"
+		"DOTA_Tooltip_ability_special_bonus_imba_ursa_2"						"+50% Fury Swipes Devastating Blow damage"
+		"DOTA_Tooltip_ability_special_bonus_imba_ursa_3"						"+10 Fury Swipes damage per stack"	
+		"DOTA_Tooltip_ability_special_bonus_imba_ursa_4"						"+3 Overpower attacks"
+		"DOTA_Tooltip_ability_special_bonus_imba_ursa_5"						"+1s Overpower Disarm duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_ursa_6"						"+100 Enraged Earthshock/Overpower radius"
+		"DOTA_Tooltip_ability_special_bonus_imba_ursa_7"						"-120 seconds Territorial Hunter cooldown"
+		"DOTA_Tooltip_ability_special_bonus_imba_ursa_8"						"+100% skill cooldown rate while enraged"
+
+		// Vengeful Spirit
+		"DOTA_Tooltip_ability_special_bonus_imba_vengefulspirit_1"				"+100 Magic Missile damage"
+		"DOTA_Tooltip_ability_special_bonus_imba_vengefulspirit_2"				"-1 Nether Swap swapback activation delay"
+		"DOTA_Tooltip_ability_special_bonus_imba_vengefulspirit_3"				"+15% damage / 5 spell power to Vengeance Aura"	
+		"DOTA_Tooltip_ability_special_bonus_imba_vengefulspirit_4"				"Rancor also triggers from nearby allies (900 radius), at 1/3 the normal rate"
+		"DOTA_Tooltip_ability_special_bonus_imba_vengefulspirit_5"				"Magic Missile's stun now pierces spell immunity"
+		"DOTA_Tooltip_ability_special_bonus_imba_vengefulspirit_6"				"Nether Swap/Swapback launch 100 damage / 1 second stun magic missiles to enemies in 600 radius of the start/end point"
+		"DOTA_Tooltip_ability_special_bonus_imba_vengefulspirit_7"				"-50% buyback cost, -100% buyback cooldown"
+		"DOTA_Tooltip_ability_special_bonus_imba_vengefulspirit_8"				"Vengeance Aura now increases all attack damage (instead of base damage)"
+
+		// Venomancer
+		"DOTA_Tooltip_ability_special_bonus_imba_venomancer_1"					"+15% Venomous Gale slow"
+		"DOTA_Tooltip_ability_special_bonus_imba_venomancer_2"					"Poison Sting now adds +1% slow per stack"
+		"DOTA_Tooltip_ability_special_bonus_imba_venomancer_3"					"+50% Compound Toxicity magic resistance reduction"
+		"DOTA_Tooltip_ability_special_bonus_imba_venomancer_4"					"+4 sec Poison Nova duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_venomancer_5"					"+200% Scourge/Plague Ward health/damage"
+		"DOTA_Tooltip_ability_special_bonus_imba_venomancer_6"					"Poison Sting now also applies when you're attacked"
+		"DOTA_Tooltip_ability_special_bonus_imba_venomancer_7"					"Venomous Gale is now a 360° area of effect"
+		"DOTA_Tooltip_ability_special_bonus_imba_venomancer_8"					"Scourge Ward has its own stacking Poison Sting"
+
+		// Warlock
+		"DOTA_Tooltip_ability_special_bonus_imba_warlock_1"						"+30 Shadow Word attack speed on Golems"
+		"DOTA_Tooltip_ability_special_bonus_imba_warlock_2"						"Upheaval also reduces attack speed"
+		"DOTA_Tooltip_ability_special_bonus_imba_warlock_3"						"+5% Fatal Bonds shared damage"
+		"DOTA_Tooltip_ability_special_bonus_imba_warlock_4"						"+10 Golem armor"
+		"DOTA_Tooltip_ability_special_bonus_imba_warlock_5"						"+4 Shadow Word duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_warlock_6"						"Upheaval is channeled by a demon instead of you"
+		"DOTA_Tooltip_ability_special_bonus_imba_warlock_7"						"Golems share damage they take to all linked enemies"
+		"DOTA_Tooltip_ability_special_bonus_imba_warlock_8"						"Golems gain Spell Immunity"
+
+		// Witch Doctor
+		"DOTA_Tooltip_Ability_special_bonus_imba_witch_doctor_1"				"+50 Paralyzing Cask heal when bouncing to allies"
+		"DOTA_Tooltip_Ability_special_bonus_imba_witch_doctor_2"				"+70 Maledict effect radius"
+		"DOTA_Tooltip_Ability_special_bonus_imba_witch_doctor_3"				"+20 Voodoo Restoration healing per second"
+		"DOTA_Tooltip_Ability_special_bonus_imba_witch_doctor_4"				"+175 Death Ward attack range"
+		"DOTA_Tooltip_Ability_special_bonus_imba_witch_doctor_5"				"+4 Paralyzing Cask max bounces"
+		"DOTA_Tooltip_Ability_special_bonus_imba_witch_doctor_6"				"Voodoo Restoration no longer costs mana"
+		"DOTA_Tooltip_Ability_special_bonus_imba_witch_doctor_7"				"+8 sec Maledict duration"
+		"DOTA_Tooltip_Ability_special_bonus_imba_witch_doctor_8"				"Now spawns two Death Wards; if channeling is broken, only one of them disappears"
+
+		// Wraith King
+		"DOTA_Tooltip_ability_special_bonus_imba_skeleton_king_1"				"+2s Wraithfire Blast debuff duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_skeleton_king_2"				"+5% Mortal Strike crit chance"
+		"DOTA_Tooltip_ability_special_bonus_imba_skeleton_king_3"				"+15% Vampiric Aura lifesteal/spellsteal"
+		"DOTA_Tooltip_ability_special_bonus_imba_skeleton_king_4"				"Kingdom Come's Wraith slow enemies on hit"
+		"DOTA_Tooltip_ability_special_bonus_imba_skeleton_king_5"				"+20% Mortal Strike health per damage"
+		"DOTA_Tooltip_ability_special_bonus_imba_skeleton_king_6"				"Reincarnation costs no mana to activate"
+		"DOTA_Tooltip_ability_special_bonus_imba_skeleton_king_7"				"Wraithfire Blast summons Wraiths on all enemies hit"			
+		"DOTA_Tooltip_ability_special_bonus_imba_skeleton_king_8"				"-20s Reincarnate cooldown"		
+
+		// Techies
+		"DOTA_Tooltip_ability_special_bonus_imba_techies_1"						"+75 Proximity Mines trigger/explosion range"
+		"DOTA_Tooltip_ability_special_bonus_imba_techies_2"						"Stasis Traps can be planted within creeps"
+		"DOTA_Tooltip_ability_special_bonus_imba_techies_3"						"+150 base Electrocharge radius"
+		"DOTA_Tooltip_ability_special_bonus_imba_techies_4"						"Traps apply Inflammable to Remote Mines"
+		"DOTA_Tooltip_ability_special_bonus_imba_techies_5"						"Every Blast Off! jump drops a Proximity Mine"
+		"DOTA_Tooltip_ability_special_bonus_imba_techies_6"						"+175 Minefield Sign aura radius"
+		"DOTA_Tooltip_ability_special_bonus_imba_techies_7"						"+3 Proximity Mines on cast"
+		"DOTA_Tooltip_ability_special_bonus_imba_techies_8"						"Blast Off! throws a little piggy"
+
+		// Tiny
+		"DOTA_Tooltip_ability_special_bonus_imba_tiny_1"                        "+25% Passive Avalanche Damage and Stun Duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_tiny_2"                        "+10 Rolling Stone Stacks"
+		"DOTA_Tooltip_ability_special_bonus_imba_tiny_3"                        "Avalanche 400 Unit Projectile"
+		"DOTA_Tooltip_ability_special_bonus_imba_tiny_4"                        "+225 AoE Craggy Exterior"
+		"DOTA_Tooltip_ability_special_bonus_imba_tiny_5"                        "+15 Craggy Exterior Damage Reduction Per Hit"
+		"DOTA_Tooltip_ability_special_bonus_imba_tiny_6"                        "+200 Bonus Total Avalanche Damage"
+		"DOTA_Tooltip_ability_special_bonus_imba_tiny_7"                        "Toss Grabs All Units"
+		"DOTA_Tooltip_ability_special_bonus_imba_tiny_8"                        "Rolling Stone Attackspeed Penalty Removed"
+
+		// Enigma
+		"DOTA_Tooltip_ability_special_bonus_imba_enigma_1"						"+2s Malefice duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_enigma_2"						"Malefice affects all enemies in 215 AoE"
+		"DOTA_Tooltip_ability_special_bonus_imba_enigma_3"						"+15% Eidolon source attributes"
+		"DOTA_Tooltip_ability_special_bonus_imba_enigma_4"						"+225 Black Hole cast range"
+		"DOTA_Tooltip_ability_special_bonus_imba_enigma_5"						"+15% Gravity Well radius and pull power"
+		"DOTA_Tooltip_ability_special_bonus_imba_enigma_6"						"+80 Black Hole radius"
+		"DOTA_Tooltip_ability_special_bonus_imba_enigma_7"						"+1s Black Hole duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_enigma_8"						"Heroes can be used as sources for Eidolons"
+
+		//
+		"DOTA_Tooltip_ability_special_bonus_imba_faceless_void_1"				"+5% attack/move speed per Time Dilation Chronocharge spent"		
+		"DOTA_Tooltip_ability_special_bonus_imba_faceless_void_2"				"+12/+6 health/mana regen per Time Dilation Chronocharge spent"
+		"DOTA_Tooltip_ability_special_bonus_imba_faceless_void_3"				"Instant Chronosphere movement, Void constantly dodges projectiles in it"
+		"DOTA_Tooltip_ability_special_bonus_imba_faceless_void_4"				"+0.05 Chronosphere duration per point of Spell Power"
+		"DOTA_Tooltip_ability_special_bonus_imba_faceless_void_5"				"+600 Time Walk cast range"
+		"DOTA_Tooltip_ability_special_bonus_imba_faceless_void_6"				"+1s Time Walk backtrack time"
+		"DOTA_Tooltip_ability_special_bonus_imba_faceless_void_7"				"Time Dilation no longer spends Chronocharges on allies"
+		"DOTA_Tooltip_ability_special_bonus_imba_faceless_void_8"				"+50% Chronosphere's Chronocharge bonuses"
+
+		// Alchemist
+		"DOTA_Tooltip_ability_special_bonus_imba_alchemist_1"					"+200 Acid Spray radius"				
+		"DOTA_Tooltip_ability_special_bonus_imba_alchemist_2"					"+4 Acid Spray armor reduction"
+		"DOTA_Tooltip_ability_special_bonus_imba_alchemist_3"					"+2 Unstable Concoction duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_alchemist_4"					"+25% Highly Combustible explosion damage"
+		"DOTA_Tooltip_ability_special_bonus_imba_alchemist_5"					"+5s Chemical Rage duration"
+		"DOTA_Tooltip_ability_special_bonus_imba_alchemist_6"					"+75 Chemical Rage health regeneration bonus"
+		"DOTA_Tooltip_ability_special_bonus_imba_alchemist_7"					"Alchemist now gains 4x gold from bounty runes"
+		"DOTA_Tooltip_ability_special_bonus_imba_alchemist_8"					"-15s Greevil's Greed cooldown"
+
+		// KIRIRAMU
+		"DOTA_Tooltip_Ability_special_bonus_imba_riki_1"    					"+200 Smoke Screen radius"
+		"DOTA_Tooltip_Ability_special_bonus_imba_riki_2"    					"-4 sec Smoke Screen cooldown"
+		"DOTA_Tooltip_Ability_special_bonus_imba_riki_3"    					"+1 Blink Strike jumps"
+		"DOTA_Tooltip_Ability_special_bonus_imba_riki_4"    					"+1.5 sec Blink Strike debuff duration"
+		"DOTA_Tooltip_Ability_special_bonus_imba_riki_5"    					"+0.4 Backstab agility multiplier"
+		"DOTA_Tooltip_Ability_special_bonus_imba_riki_6"    					"-2 sec invisibility fade time"
+		"DOTA_Tooltip_Ability_special_bonus_imba_riki_7"    					"-0.3 sec Tricks of the Trade attack interval"
+		"DOTA_Tooltip_Ability_special_bonus_imba_riki_8"    					"+500 Tricks of the Trade radius"
