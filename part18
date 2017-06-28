@@ -1,0 +1,252 @@
+//=================================================================================================================
+		// Item modifiers
+		//=================================================================================================================
+
+		"DOTA_Tooltip_modifier_item_imba_vladmir_aura"										"Vladmir's Aura"
+		"DOTA_Tooltip_modifier_item_imba_vladmir_aura_Description"							"Benefitting from Vladmir's offering's auras"
+
+		"DOTA_Tooltip_modifier_item_imba_vladmir_blood_aura"								"Blood Aura"
+		"DOTA_Tooltip_modifier_item_imba_vladmir_blood_aura_Description"					"Benefitting from Vladmir's blood's auras"
+
+		"DOTA_Tooltip_modifier_imba_radiance_afterburn"										"Radiance Afterburn"
+		"DOTA_Tooltip_modifier_imba_radiance_afterburn_Description"							"Blinded and taking damage over time until stacks are depleted"
+
+		"DOTA_Tooltip_modifier_item_imba_mekansm_aura"										"Tranquility Aura"
+		"DOTA_Tooltip_modifier_item_imba_mekansm_aura_Description"							"Health regeneration increased by %dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT%."
+
+		"DOTA_Tooltip_modifier_item_imba_mekansm_heal"										"Restoration"
+		"DOTA_Tooltip_modifier_item_imba_mekansm_heal_Description"							"Gaining %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS_UNIQUE_ACTIVE% bonus armor and regenerating %fMODIFIER_PROPERTY_HEALTH_REGEN_PERCENTAGE%%% of max health per second."
+
+		"DOTA_Tooltip_modifier_item_imba_guardian_greaves_aura"								"Guardian Aura"
+		"DOTA_Tooltip_modifier_item_imba_guardian_greaves_aura_Description"					"Gaining %dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT% health regen and %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS% armor."
+
+		"DOTA_Tooltip_modifier_item_imba_guardian_greaves_heal"								"Mend"
+		"DOTA_Tooltip_modifier_item_imba_guardian_greaves_heal_Description"					"Восстанавливается %fMODIFIER_PROPERTY_HEALTH_REGEN_PERCENTAGE%%% здоровья в секунду."
+
+		"DOTA_Tooltip_modifier_item_imba_azura_amp"											"Soul Rend"
+		"DOTA_Tooltip_modifier_item_imba_azura_amp_Description"								"Увеличена уязвимость к магическому урону."
+
+		"DOTA_Tooltip_modifier_item_crimson_guard_active"									"Guard"
+		"DOTA_Tooltip_modifier_item_crimson_guard_active_Description"						"Блокируется часть полученного физического урона"
+
+		"DOTA_Tooltip_modifier_item_imba_greatwyrm_plate_buff"								"Bulwark"
+		"DOTA_Tooltip_modifier_item_imba_greatwyrm_plate_buff_Description"					"Gaining increased armor, damage block, and tenacity. All incoming damage is reduced."
+
+		"DOTA_Tooltip_modifier_item_imba_sheepstick_debuff"									"Hex"
+		"DOTA_Tooltip_modifier_item_imba_sheepstick_debuff_Description"						"Вы безобидное, беспомощное животное"
+
+		"DOTA_Tooltip_modifier_item_imba_sheepstick_buff"									"Hex"
+		"DOTA_Tooltip_modifier_item_imba_sheepstick_buff_Description"						"Вы безобидное, беспомощное животное... которое летает ОЧЕНЬ быстро."
+
+		"DOTA_Tooltip_modifier_item_imba_veil_of_discord_aura_debuff"						"Discord Aura"
+		"DOTA_Tooltip_modifier_item_imba_veil_of_discord_aura_debuff_Description"			"Сопротивление магии уменьшено"
+
+		"DOTA_Tooltip_modifier_item_imba_veil_of_discord_target_debuff"						"Soulrend"
+		"DOTA_Tooltip_modifier_item_imba_veil_of_discord_target_debuff_Description"			"Сопротивление магии сильно уменьшено"
+
+		"DOTA_Tooltip_modifier_item_imba_butterfly_flutter"									"Flutter"
+		"DOTA_Tooltip_modifier_item_imba_butterfly_flutter_Description"						"Обмен уворота на увеличенную скорость передвижения"
+
+		"DOTA_Tooltip_modifier_item_imba_butterfly_wind_song_stacks"						"Wind Song Stacks"
+		"DOTA_Tooltip_modifier_item_imba_butterfly_wind_song_stacks_Description"			"Accumulating Wind Song stacks through evading attacks. Reaching enough Wind Song stack will activate it."
+
+		"DOTA_Tooltip_modifier_item_imba_butterfly_wind_song_active"						"Wind Song"
+		"DOTA_Tooltip_modifier_item_imba_butterfly_wind_song_active_Description"			"Wind Song is active! Move and attack speed increased, evading all attacks."
+
+		"DOTA_Tooltip_modifier_item_imba_butterfly_wind_song_slow"							"Wind Song Slow"
+		"DOTA_Tooltip_modifier_item_imba_butterfly_wind_song_slow_Description"				"Being slowed by an enemy with an active Wind Song."
+
+		"DOTA_Tooltip_modifier_imba_moon_shard_stacks_dummy"								"Moon Shard"
+		"DOTA_Tooltip_modifier_imba_moon_shard_stacks_dummy_Description"					"Увеличены скорость атаки и видимость ночью"
+
+		"DOTA_Tooltip_modifier_item_imba_medallion_buff"									"Valor"
+		"DOTA_Tooltip_modifier_item_imba_medallion_buff_Description"						"Armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
+
+		"DOTA_Tooltip_modifier_item_imba_medallion_debuff"									"Valor"
+		"DOTA_Tooltip_modifier_item_imba_medallion_debuff_Description"						"Armor decreased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
+
+		"DOTA_Tooltip_modifier_item_imba_solar_crest_dummy"									"Solar Crest"
+		"DOTA_Tooltip_modifier_item_imba_solar_crest_dummy_Description"						"Защитные возможност вашего Solar Crest временно отключены"
+
+		"DOTA_Tooltip_modifier_item_imba_solar_crest_buff"									"Shine"
+		"DOTA_Tooltip_modifier_item_imba_solar_crest_buff_Description"						"Armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%, and evasion increased by %dMODIFIER_PROPERTY_EVASION_CONSTANT%%%."
+
+		"DOTA_Tooltip_modifier_item_imba_solar_crest_debuff"								"Shine"
+		"DOTA_Tooltip_modifier_item_imba_solar_crest_debuff_Description"					"Armor decreased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%, and accuracy decreased by %dMODIFIER_PROPERTY_MISS_PERCENTAGE%%%."
+
+		"DOTA_Tooltip_modifier_imba_armlet_unholy_strength"									"Unholy Strength"
+		"DOTA_Tooltip_modifier_imba_armlet_unholy_strength_Description"						"Losing 45 health per second, but gaining %dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS% strength, %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE% bonus damage, %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS% armor, and %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% attack speed."
+
+		"DOTA_Tooltip_modifier_imba_armlet_unholy_strength_visual_effect"					"Unholy Strength"
+		"DOTA_Tooltip_modifier_imba_armlet_unholy_strength_visual_effect_Description"		"Losing 45 health per second, but gaining %dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS% strength, %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE% bonus damage, %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS% armor, and %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% attack speed."
+
+		"DOTA_Tooltip_modifier_item_imba_sange_maim"										"Maim"
+		"DOTA_Tooltip_modifier_item_imba_sange_maim_Description"							"Замедлены на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% move and %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% attack speed."
+
+		"DOTA_Tooltip_modifier_item_imba_yasha_stacks"										"Battle Rhythm"
+		"DOTA_Tooltip_modifier_item_imba_yasha_stacks_Description"							"Gaining %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% bonus attack speed."
+
+		"DOTA_Tooltip_modifier_item_imba_azura_amp"											"Soul Rend"
+		"DOTA_Tooltip_modifier_item_imba_azura_amp_Description"								"Taking %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%% extra magic damage."
+
+		"DOTA_Tooltip_modifier_item_imba_sange_yasha_maim"									"Maim"
+		"DOTA_Tooltip_modifier_item_imba_sange_yasha_maim_Description"						"Замедлены на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% move and %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% attack speed."
+
+		"DOTA_Tooltip_modifier_item_imba_sange_yasha_stacks"								"Battle Rhythm"
+		"DOTA_Tooltip_modifier_item_imba_sange_yasha_stacks_Description"					"Gaining %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% bonus attack speed."
+
+		"DOTA_Tooltip_modifier_item_imba_sange_azura_stacks"								"Soul Maim"
+		"DOTA_Tooltip_modifier_item_imba_sange_azura_stacks_Description"					"Замедлены на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% move and %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% attack speed, and taking %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%% extra magic damage."
+
+		"DOTA_Tooltip_modifier_item_imba_azura_yasha_amp"									"Soul Rend"
+		"DOTA_Tooltip_modifier_item_imba_azura_yasha_amp_Description"						"Taking %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%% extra magic damage."
+
+		"DOTA_Tooltip_modifier_item_imba_azura_yasha_stacks"								"Battle Rhythm"
+		"DOTA_Tooltip_modifier_item_imba_azura_yasha_stacks_Description"					"Gaining %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% bonus attack speed."
+
+		"DOTA_Tooltip_modifier_item_imba_triumvirate_stacks_debuff"							"Soul Maim"
+		"DOTA_Tooltip_modifier_item_imba_triumvirate_stacks_debuff_Description"				"Замедлены на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% move and %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% attack speed, and taking %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%% extra magic damage."
+
+		"DOTA_Tooltip_modifier_item_imba_triumvirate_stacks_buff"							"Battle Rhythm"
+		"DOTA_Tooltip_modifier_item_imba_triumvirate_stacks_buff_Description"				"Gaining %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% bonus attack speed."
+
+		"DOTA_Tooltip_modifier_item_imba_aegis"												"Immortality"
+		"DOTA_Tooltip_modifier_item_imba_aegis_Description"									"Will respawn in 3 seconds after death, with no penalty. Upon expiring, the Aegis of Immortality will fully heal its owner."
+
+		"DOTA_Tooltip_modifier_item_imba_orchid_debuff"										"Soul Burn"
+		"DOTA_Tooltip_modifier_item_imba_orchid_debuff_Description"							"Обезмолвлен. Получит магический урон в конце действия этого эффекта."
+
+		"DOTA_Tooltip_modifier_item_imba_bloodthorn_debuff"									"Soul Scourge"
+		"DOTA_Tooltip_modifier_item_imba_bloodthorn_debuff_Description"						"Обезмолвлен, потеряна возможность уворота. Все атаки по вам будут критическими."
+
+		"DOTA_Tooltip_modifier_item_imba_shadow_blade_invis"								"Shadow Walk"
+		"DOTA_Tooltip_modifier_item_imba_shadow_blade_invis_Description"					"Invisible, phased, gaining bonus night vision, movespeed, and backstab damage."
+
+		"DOTA_Tooltip_modifier_item_imba_silver_edge_invis"									"Shadow's Edge"
+		"DOTA_Tooltip_modifier_item_imba_silver_edge_invis_Description"						"Invisible, phased, gaining bonus night vision, movespeed, and backstab damage."
+
+		"DOTA_Tooltip_modifier_item_imba_silver_edge_break"									"Backstab"
+		"DOTA_Tooltip_modifier_item_imba_silver_edge_break_Description"						"Урон уменьшен, пассивные умения отлючены"
+
+		"DOTA_Tooltip_modifier_item_imba_silver_edge_maim"									"Maim"
+		"DOTA_Tooltip_modifier_item_imba_silver_edge_maim_Description"						"Attack and movement speed reduced"
+
+		"DOTA_Tooltip_modifier_item_imba_starfury_buff_dummy"								"Lightspeed"
+		"DOTA_Tooltip_modifier_item_imba_starfury_buff_dummy_Description"					"Временно увеличена ловкость"
+
+		"DOTA_Tooltip_modifier_item_imba_soul_of_truth"										"Soul of Truth"
+		"DOTA_Tooltip_modifier_item_imba_soul_of_truth_Description"							"True Sight, bonus armor and health regeneration"
+
+		"DOTA_Tooltip_modifier_item_heart_aura_effect"										"Tarrasque Breath"
+		"DOTA_Tooltip_modifier_item_heart_aura_effect_Description"							"Увеличена сила"
+
+		"DOTA_Tooltip_modifier_item_imba_skadi_slow"										"Wintergrasp"
+		"DOTA_Tooltip_modifier_item_imba_skadi_slow_Description"							"Movement slowed by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, attack speed slowed by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+
+		"DOTA_Tooltip_modifier_item_imba_skadi_freeze"										"Dead Winter"
+		"DOTA_Tooltip_modifier_item_imba_skadi_freeze_Description"							"Обездвижен"
+
+		"DOTA_Tooltip_modifier_item_imba_blight_stone_debuff"								"Blight"
+		"DOTA_Tooltip_modifier_item_imba_blight_stone_debuff_Description"					"Armor reduced by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%, vision range reduced by %dMODIFIER_PROPERTY_BONUS_DAY_VISION%."
+
+		"DOTA_Tooltip_modifier_item_imba_desolator_debuff"									"Corruption"
+		"DOTA_Tooltip_modifier_item_imba_desolator_debuff_Description"						"Armor reduced by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%, vision range reduced by %dMODIFIER_PROPERTY_BONUS_DAY_VISION%."
+
+		"DOTA_Tooltip_modifier_item_imba_desolator_2_debuff"								"Desolation"
+		"DOTA_Tooltip_modifier_item_imba_desolator_2_debuff_Description"					"Armor reduced by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%, vision range reduced by %dMODIFIER_PROPERTY_BONUS_DAY_VISION%."
+
+		"DOTA_Tooltip_modifier_item_imba_phase_boots_2_move_speed"							"Haste Boots"
+		"DOTA_Tooltip_modifier_item_imba_phase_boots_2_move_speed_Description"				"Текущая и максимальная скорости передвижения увеличены"
+
+		"DOTA_Tooltip_modifier_item_imba_mjollnir_static"									"Static Charge"
+		"DOTA_Tooltip_modifier_item_imba_mjollnir_static_Description"						"Countering incoming damage with lightning bolts"
+
+		"DOTA_Tooltip_modifier_item_imba_mjollnir_slow"										"Static Charge"
+		"DOTA_Tooltip_modifier_item_imba_mjollnir_slow_Description"							"Скорость и атака уменьшены"
+
+		"DOTA_Tooltip_modifier_item_imba_shivas_aura_debuff"								"Freezing Aura"
+		"DOTA_Tooltip_modifier_item_imba_shivas_aura_debuff_Description"					"Скорость атаки уменьшена"
+
+		"DOTA_Tooltip_modifier_item_imba_greater_crit_buff"									"Power Overwhelming"
+		"DOTA_Tooltip_modifier_item_imba_greater_crit_buff_Description"						"Следующий критический удар нанесет дополнительный урон"
+
+		"DOTA_Tooltip_modifier_imba_drums_aura_effect"										"Endurance Aura"
+		"DOTA_Tooltip_modifier_imba_drums_aura_effect_Description"							"Увеличена скорость передвижения и атаки"
+
+		"DOTA_Tooltip_modifier_imba_drums_active"											"Strength in Numbers"
+		"DOTA_Tooltip_modifier_imba_drums_active_Description"								"Увеличена скорость передвижения и атаки"
+
+		"DOTA_Tooltip_modifier_imba_assault_cuirass_aura_positive_effect"					"Assault Aura"
+		"DOTA_Tooltip_modifier_imba_assault_cuirass_aura_positive_effect_Description"		"Увеличена броня и скорость атаки"
+
+		"DOTA_Tooltip_modifier_imba_assault_cuirass_aura_negative_effect"					"Assault Aura"
+		"DOTA_Tooltip_modifier_imba_assault_cuirass_aura_negative_effect_Description"		"Уменьшенна броня"
+
+		"DOTA_Tooltip_modifier_imba_siege_cuirass_aura_positive_effect"						"Siege Aura"
+		"DOTA_Tooltip_modifier_imba_siege_cuirass_aura_positive_effect_Description"			"Увеличены броня, скорость атаки и передвижения"
+
+		"DOTA_Tooltip_modifier_imba_siege_cuirass_aura_negative_effect"						"Siege Aura"
+		"DOTA_Tooltip_modifier_imba_siege_cuirass_aura_negative_effect_Description"			"Уменьшены броня, скорость атаки и передвижения"
+
+		"DOTA_Tooltip_modifier_imba_siege_cuirass_active"									"Hellish Siege"
+		"DOTA_Tooltip_modifier_imba_siege_cuirass_active_Description"						"Увеличение скорости атаки и передвижения"
+
+		"DOTA_Tooltip_modifier_item_imba_echo_sabre_slow"									"Echo Sabre"
+		"DOTA_Tooltip_modifier_item_imba_echo_sabre_slow_Description"						"Скорость атаки и передвижения уменьшены"
+
+		"DOTA_Tooltip_modifier_item_imba_reverb_rapier_slow"								"Reverb Rapier"
+		"DOTA_Tooltip_modifier_item_imba_reverb_rapier_slow_Description"					"Скорость атаки и передвижения уменьшены"
+
+		"DOTA_Tooltip_modifier_item_imba_initiate_robe_stacks"								"Magic Shield"
+		"DOTA_Tooltip_modifier_item_imba_initiate_robe_stacks_Description"					"Поглощает урон"
+
+		"DOTA_Tooltip_modifier_item_imba_tranquil_boots_2_stacks"							"Tranquility"
+		"DOTA_Tooltip_modifier_item_imba_tranquil_boots_2_stacks_Description"				"Увеличенная скорость регенерации и броня"
+
+		"DOTA_Tooltip_modifier_item_imba_nether_wand_burn"									"Nether Burn"
+		"DOTA_Tooltip_modifier_item_imba_nether_wand_burn_Description"						"Получение урона в зависимости от максимального здоровья"
+
+		"DOTA_Tooltip_modifier_item_imba_elder_staff_burn"									"Elderfire"
+		"DOTA_Tooltip_modifier_item_imba_elder_staff_burn_Description"						"Suffering max health-based damage"
+
+		"DOTA_Tooltip_modifier_imba_rune_haste_owner"										"Nightmare Shadow"
+		"DOTA_Tooltip_modifier_imba_rune_haste_owner_Description"							"Attack and movement speed increased, no movement speed limit"
+
+		"DOTA_Tooltip_modifier_imba_rune_double_damage_owner"								"Power Surge"
+		"DOTA_Tooltip_modifier_imba_rune_double_damage_owner_Description"					"Существенно увеличена атака и урон заклинаниями"
+
+		"DOTA_Tooltip_modifier_imba_rune_regeneration_owner"								"Boundless Energy"
+		"DOTA_Tooltip_modifier_imba_rune_regeneration_owner_Description"					"Постоянная регенерация жизни и маны"
+
+		"DOTA_Tooltip_modifier_imba_dust_of_appearance"										"Dusty"
+		"DOTA_Tooltip_modifier_imba_dust_of_appearance_Description"							"Slowed and revealed through fog, but only if you are invisible."
+
+		"DOTA_Tooltip_modifier_imba_angelic_alliance_debuff"								"Angelic Light"
+		"DOTA_Tooltip_modifier_imba_angelic_alliance_debuff_Description"					"Slowed, disarmed, armor reduced by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%, and revealed to the enemy team. Slow wears off over time."
+
+		"DOTA_Tooltip_modifier_imba_angelic_alliance_buff"									"Angelic Light"
+		"DOTA_Tooltip_modifier_imba_angelic_alliance_buff_Description"						"Increased movement speed, armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%, revealed to the enemy team, and dodging all attacks. Movement speed bonus wears off over time."
+
+		"DOTA_Tooltip_modifier_imba_angelic_alliance_debuff_caster"							"Angelic Abandon"
+		"DOTA_Tooltip_modifier_imba_angelic_alliance_debuff_caster_Description"				"Losing the armor, evasion, and passive disarm provided by Angelic Alliance."
+
+		"DOTA_Tooltip_modifier_imba_angelic_alliance_passive_disarm"						"Divine Vengeance"
+		"DOTA_Tooltip_modifier_imba_angelic_alliance_passive_disarm_Description"			"Обезоружен"
+
+		"DOTA_Tooltip_modifier_item_imba_curseblade_debuff"									"Curse"
+		"DOTA_Tooltip_modifier_item_imba_curseblade_debuff_Description"						"Жизнь и ману воруют со временем"
+
+		"DOTA_Tooltip_modifier_item_imba_hellblade_debuff"									"Hellish Curse"
+		"DOTA_Tooltip_modifier_item_imba_hellblade_debuff_Description"						"Жизнь и ману воруют со временем"
+
+		"DOTA_Tooltip_modifier_imba_mask_of_madness_berserk"								"Berserk"
+ 		"DOTA_Tooltip_modifier_imba_mask_of_madness_berserk_Description"					"Обезмолвлен, уменьшена броня и знаачительно увеличены скорости атаки и передвижения"
+
+ 		"DOTA_Tooltip_modifier_imba_mask_of_madness_rage"									"Raging Curse"
+ 		"DOTA_Tooltip_modifier_imba_mask_of_madness_rage_Description"						"Forced to attack your current target, but gaining immense physical prowess in return."
+
+ 		"DOTA_Tooltip_modifier_imba_satanic_active"											"Unholy Rage"
+ 		"DOTA_Tooltip_modifier_imba_satanic_active_Description"								"Под действием сильного вампиризма."
+
+ 		"DOTA_Tooltip_modifier_imba_satanic_soul_slaughter"									"Soul Slaughter"
+ 		"DOTA_Tooltip_modifier_imba_satanic_soul_slaughter_Description"						"Души убитых монстров и героев дают вам дополнительное здоровье и силу атаки"
