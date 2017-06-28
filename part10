@@ -1,0 +1,960 @@
+//=================================================================================================================
+		// Hero ability modifiers
+		//=================================================================================================================
+
+		"DOTA_Tooltip_modifier_buyback_gold_penalty"										"Buyback Penalty"
+		"DOTA_Tooltip_modifier_buyback_gold_penalty_Description"							"Gold earnings reduced by 60%%, further buybacks will have increased cost"
+
+		"DOTA_Tooltip_modifier_imba_war_veteran"											"War Veteran"
+		"DOTA_Tooltip_modifier_imba_war_veteran_Description"								"Attributes, damage, spell power, armor, magic resistance, move and attack speed increase every level beyond 40"
+
+		"DOTA_Tooltip_modifier_charges"														"Ability charges"
+		"DOTA_Tooltip_modifier_charges_Description"											"Can cast the ability as long as charges remain"
+
+		"DOTA_Tooltip_modifier_imba_curse_of_avernus_debuff"								"Curse of Avernus"
+		"DOTA_Tooltip_modifier_imba_curse_of_avernus_debuff_Description"					"Slowed and granting bonus speed to attackers"
+
+		"DOTA_Tooltip_modifier_imba_curse_of_avernus_buff"									"Curse of Avernus"
+		"DOTA_Tooltip_modifier_imba_curse_of_avernus_buff_Description"						"Gaining bonus move and attack speed due to attacking Abaddon's target"
+
+		"DOTA_Tooltip_modifier_aphotic_shield_buff"											"Aphotic Shield"
+		"DOTA_Tooltip_modifier_aphotic_shield_buff_Description"								"Incoming damage blocked by Aphotic Shield's protection"
+
+		"DOTA_Tooltip_modifier_borrowed_time_caster_buff"									"Borrowed Time"
+		"DOTA_Tooltip_modifier_borrowed_time_caster_buff_Description"						"Being healed by all incoming damage"
+
+		"DOTA_Tooltip_modifier_borrowed_time_allies_buff"									"Borrowed Time"
+		"DOTA_Tooltip_modifier_borrowed_time_allies_buff_Description"						"Redirecting part of incoming damage to Abaddon"
+
+		"DOTA_Tooltip_modifier_imba_acid_spray"												"Sticky Acid"
+		"DOTA_Tooltip_modifier_imba_acid_spray_Description"									"Taking damage every second and losing armor. Stacks decay every second when outside Acid Spray's area of effect."
+
+		"DOTA_Tooltip_modifier_imba_goblins_greed_passive"									"Greevil's Greed"
+		"DOTA_Tooltip_modifier_imba_goblins_greed_passive_Description"						"Last hits will net you bonus gold."
+
+		"DOTA_Tooltip_modifier_imba_goblins_greed"											"Golden Greevil's Mark"
+		"DOTA_Tooltip_modifier_imba_goblins_greed_Description"								"Marked by the Golden Greevil. Dying by any source will earn Alchemist bonus gold."
+
+		"DOTA_Tooltip_modifier_imba_chemical_rage"											"Chemical Rage"
+		"DOTA_Tooltip_modifier_imba_chemical_rage_Description"								"Grants lower Base attack time, bonus health and mana regeneration and bonus move speed. Emitting Acid Aura on nearby enemies."
+
+		"DOTA_Tooltip_modifier_alchemist_greed_scepter_passive"								"Mammonite"
+		"DOTA_Tooltip_modifier_alchemist_greed_scepter_passive_Description"					"When Mammonite is toggled on, your attacks will drain a portion of your current gold and add it as bonus damage."
+
+		"DOTA_Tooltip_modifier_imba_antimage_spell_shield_active"							"Spell Shield"
+		"DOTA_Tooltip_modifier_imba_antimage_spell_shield_active_Description"				"Counter and reflect every spell for a short duration"
+
+		"DOTA_Tooltip_modifier_imba_mana_void_ministun"										"Mana Void"
+		"DOTA_Tooltip_modifier_imba_mana_void_ministun_Description"							"Stunned by Anti-mage's mana void"
+
+		"DOTA_Tooltip_modifier_imba_berserkers_call_caster"									"Berserker's Call"
+		"DOTA_Tooltip_modifier_imba_berserkers_call_caster_Description"						"Gains a huge armor bonus."
+
+		"DOTA_Tooltip_modifier_imba_berserkers_call_enemy"									"Berserker's Call"
+		"DOTA_Tooltip_modifier_imba_berserkers_call_enemy_Description"						"Taunted, forced to attack your challenger. Attack speed has been increased."
+
+		"DOTA_Tooltip_modifier_imba_axe_battle_hunger_caster"								"Battle Hunger"
+		"DOTA_Tooltip_modifier_imba_axe_battle_hunger_caster_Description"					"Gaining speed from enemies affected by Battle Hunger."
+
+		"DOTA_Tooltip_modifier_imba_axe_battle_hunger_enemy"								"Battle Hunger"
+		"DOTA_Tooltip_modifier_imba_axe_battle_hunger_enemy_Description"					"Slowed and taking damage until you kill sufficient enemy units or return to your fountain."
+
+		"DOTA_Tooltip_modifier_imba_axe_culling_blade_sprint"								"Culling Blade"
+		"DOTA_Tooltip_modifier_imba_axe_culling_blade_sprint_Description"					"CULLED! Axe's manly display of force makes you faster!"
+
+		"DOTA_Tooltip_modifier_imba_bane_enfeeble"											"Enfeeble"
+		"DOTA_Tooltip_modifier_imba_bane_enfeeble_Description"								"Losing attack damage and attributes."
+
+		"DOTA_Tooltip_modifier_imba_bane_brain_sap"											"Addlebrain"
+		"DOTA_Tooltip_modifier_imba_bane_brain_sap_Description"								"Losing a big portion of your mana pool"
+
+		"DOTA_Tooltip_modifier_imba_bane_nightmare"											"Nightmare"
+		"DOTA_Tooltip_modifier_imba_bane_nightmare_Description"								"Cannot act. Taking damage will wake you up. Units attacking you will transfer Nightmare to them."
+
+		"DOTA_Tooltip_modifier_imba_bane_nightmare_invuln_period"							"Nightmare Invulnerability"		
+		"DOTA_Tooltip_modifier_imba_bane_nightmare_invuln_period_Description"				"Invulnerable."
+
+		"DOTA_Tooltip_modifier_imba_bane_nightmare_baleful_visions"							"Baleful Visions"
+		"DOTA_Tooltip_modifier_imba_bane_nightmare_baleful_visions_Description"				"Gradually regaining vision."
+
+		"DOTA_Tooltip_modifier_imba_bane_fiends_grip"										"Fiend's Grip"
+		"DOTA_Tooltip_modifier_imba_bane_fiends_grip_Description"							"Cannot move, taking damage and being drained of mana every second."
+
+		"DOTA_Tooltip_modifier_shuriken_toss_ministun"										"Shuriken Toss"
+		"DOTA_Tooltip_modifier_shuriken_toss_ministun_Description"							"Оглушены."
+
+		"DOTA_Tooltip_modifier_shuriken_toss_pull"											"Shuriken Toss"
+		"DOTA_Tooltip_modifier_shuriken_toss_pull_Description"								"Constantly pulled towards the spinning shuriken."
+
+		"Dota_Tooltip_modifier_imba_jinada_slow_debuff"										"Jinada"
+		"Dota_Tooltip_modifier_imba_jinada_slow_debuff_Description"							"Movement and attack speed slowed."
+
+		"Dota_Tooltip_modifier_imba_jinada_crit"											"Jinada"
+		"Dota_Tooltip_modifier_imba_jinada_crit_Description"								"Your next attack will crit and maim your target."
+
+		"Dota_Tooltip_modifier_imba_shadow_walk_invisibility"								"Shadow Walk"
+		"Dota_Tooltip_modifier_imba_shadow_walk_invisibility_Description"					"Invisible. Detecting nearby invisible units."
+
+		"DOTA_Tooltip_modifier_imba_track_debuff"											"Track"
+		"DOTA_Tooltip_modifier_imba_track_debuff_Description"								"Unable to go invisible, and granting vision to the enemy team."
+
+		"DOTA_Tooltip_modifier_imba_track_buff"												"Track"
+		"DOTA_Tooltip_modifier_imba_track_buff_Description"									"Gaining move speed due to a nearby tracked target"
+
+		"DOTA_Tooltip_modifier_imba_headhunter_buff"										"Headhunter"
+		"DOTA_Tooltip_modifier_imba_headhunter_buff_Description"							"Ongoing contract! Kill the marked enemy before time runs out to earn the gold reward."
+
+		"DOTA_Tooltip_modifier_imba_thick_hide"												"Thick Hide"		
+		"DOTA_Tooltip_modifier_imba_thick_hide_Description"									"Reducing incoming damage and debuff durations."
+
+		"DOTA_Tooltip_modifier_imba_hoof_stomp_stun"										"Hoof Stomp"
+		"DOTA_Tooltip_modifier_imba_hoof_stomp_stun_Description"							"Stunned by Hoof Stomp."
+
+		"DOTA_Tooltip_modifier_imba_hoof_stomp_arena_debuff"								"Gladiators' Arena"
+		"DOTA_Tooltip_modifier_imba_hoof_stomp_arena_debuff_Description"					"Forced to stay at the arena for its duration."
+
+		"DOTA_Tooltip_modifier_imba_hoof_stomp_arena_buff"									"Gladiator's Pride"
+		"DOTA_Tooltip_modifier_imba_hoof_stomp_arena_buff_Description"						"Taking less damage while in the arena."
+
+		"DOTA_Tooltip_modifier_imba_return_passive"											"Return"
+		"DOTA_Tooltip_modifier_imba_return_passive_Description"								"Counterattacking every time someone attacks you."
+
+		"DOTA_Tooltip_modifier_imba_return_damage_block"									"Bulging Hide"
+		"DOTA_Tooltip_modifier_imba_return_damage_block_Description"						"Gains damage block based on stacks for the duration."
+
+		"DOTA_Tooltip_modifier_imba_stampede_haste"											"Stampede"
+		"DOTA_Tooltip_modifier_imba_stampede_haste_Description"								"Moving at maximum speed and trampling nearby enemies."
+
+		"DOTA_Tooltip_modifier_imba_stampede_trample_stun"									"Stampede"
+		"DOTA_Tooltip_modifier_imba_stampede_trample_stun"									"УТОПТАН!"
+
+		"DOTA_Tooltip_modifier_imba_stampede_trample_slow"									"Stampede"
+		"DOTA_Tooltip_modifier_imba_stampede_trample_slow_Description"						"Утоптаны, уменьшенная скорость передвижения."
+
+		"DOTA_Tooltip_modifier_imba_crystal_nova_slow"										"Crystal Nova"
+		"DOTA_Tooltip_modifier_imba_crystal_nova_slow_Description"							"Замедлены ледяным взрывом Crystal Maiden"
+
+		"DOTA_Tooltip_modifier_imba_frostbite_root"											"Frostbite"
+		"DOTA_Tooltip_modifier_imba_frostbite_root_Description"								"Заморожены! Обездвижены, лишены возможности атаковать"
+
+		"DOTA_Tooltip_modifier_imba_frostbite_passive"										"Icy Touch"
+		"DOTA_Tooltip_modifier_imba_frostbite_passive_Description"							"Следующая цель, атаковавшая Crystal Maiden, будет заморожена"
+
+		"DOTA_Tooltip_modifier_imba_frostbite_passive_cooldown"								"Icy Touch cooldown"
+		"DOTA_Tooltip_modifier_imba_frostbite_passive_cooldown_Description"					"Icy Touch перезаряжается и скоро будет готов"
+
+		"DOTA_Tooltip_modifier_imba_brilliance_aura_effect"									"Brilliance Aura"
+		"DOTA_Tooltip_modifier_imba_brilliance_aura_effect_Description"						"Получение дополнительной маны и восстановления маны в присутствии Crystal Maiden"
+
+		"DOTA_Tooltip_modifier_imba_freezing_field_debuff"									"Freezing Field"
+		"DOTA_Tooltip_modifier_imba_freezing_field_debuff_Description"						"Замедлены воющими ветрами Freezing Field"
+
+		"DOTA_Tooltip_modifier_imba_freezing_field_debuff_scepter"							"Freezing Field"
+		"DOTA_Tooltip_modifier_imba_freezing_field_debuff_scepter_Description"				"Замедлены воющими ветрами Freezing Field"
+
+		"DOTA_Tooltip_modifier_imba_dazzle_poison_touch_setin"								"Poison Touch"
+		"DOTA_Tooltip_modifier_imba_dazzle_poison_touch_setin_Description"					"Slowed while the poison sets in. Getting hit will increase its potency."
+		
+		"DOTA_Tooltip_modifier_imba_dazzle_poison_touch_setin"								"Poison Touch"
+		"DOTA_Tooltip_modifier_imba_dazzle_poison_touch_setin_Description"					"Уменьшена броня, получение урона со временем."
+
+		"DOTA_Tooltip_modifier_imba_dazzle_shallow_grave"									"Shallow Grave"
+		"DOTA_Tooltip_modifier_imba_dazzle_shallow_grave_Description"						"Защищены от смерти на время действия."
+
+		"DOTA_Tooltip_modifier_imba_dazzle_nothl_protection"								"Nothl Protection"
+		"DOTA_Tooltip_modifier_imba_dazzle_nothl_protection_Description"					"Защищены от смерти на время действия."
+
+		"DOTA_Tooltip_modifier_imba_dazzle_shadow_wave_buff"								"Shadow Wave"
+		"DOTA_Tooltip_modifier_imba_dazzle_shadow_wave_buff_Description"					"Увеличенная броня"
+		
+		"DOTA_Tooltip_modifier_imba_dazzle_shadow_wave_injured_buff"						"Shadow Wave"
+		"DOTA_Tooltip_modifier_imba_dazzle_shadow_wave_injured_buff_Description"			"Увеличенная броня"
+
+		"DOTA_Tooltip_modifier_imba_dazzle_weave_buff"										"Weave"
+		"DOTA_Tooltip_modifier_imba_dazzle_weave_buff_Description"							"Увеличение брони со временем"
+
+		"DOTA_Tooltip_modifier_imba_dazzle_weave_debuff"									"Weave"
+		"DOTA_Tooltip_modifier_imba_dazzle_weave_debuff_Description"						"Потеря брони со временем"
+
+		"DOTA_Tooltip_modifier_imba_stormbearer"											"Stormbearer"
+		"DOTA_Tooltip_modifier_imba_stormbearer_Description"								"Дополнительная скорость передвижения и усиление эффекта при следующем Static Storm."
+
+		"DOTA_Tooltip_modifier_imba_thunder_strike_debuff"									"Thunder Strike"
+		"DOTA_Tooltip_modifier_imba_thunder_strike_debuff_Description"						"Жертва периодических ударов молнии. Союзники рядом вызывают дополнительные удары."
+
+		"DOTA_Tooltip_modifier_imba_glimpse_storm_debuff"									"Glimpse Storm"
+		"DOTA_Tooltip_modifier_imba_glimpse_storm_debuff_Description"						"Обезмолвлены и получаете урон."
+
+		"DOTA_Tooltip_modifier_imba_static_storm_debuff"									"Static Storm"
+		"DOTA_Tooltip_modifier_imba_static_storm_debuff_Description"						"Обезмолвлены и получаете урон."
+
+		"DOTA_Tooltip_modifier_imba_static_storm_debuff_linger"								"Electrocution"
+		"DOTA_Tooltip_modifier_imba_static_storm_debuff_linger_Description"					"Странадаете от последствий static storm."
+
+		"DOTA_Tooltip_modifier_imba_frost_arrows_slow"										"Chill"
+		"DOTA_Tooltip_modifier_imba_frost_arrows_slow_Description"							"Передвижение замедлено. Достаточное количество стаков заморозит вас."
+
+		"DOTA_Tooltip_modifier_imba_frost_arrows_freeze"									"Frozen"
+		"DOTA_Tooltip_modifier_imba_frost_arrows_freeze_Description"						"Обзежвижены"
+
+		"DOTA_Tooltip_modifier_imba_deadeye_vision"											"Deadeye"
+		"DOTA_Tooltip_modifier_imba_deadeye_vision_Description"								"Увеличенная дальность видимости."
+
+		"DOTA_Tooltip_modifier_imba_gust_silence"											"Gust"
+		"DOTA_Tooltip_modifier_imba_gust_silence_Description"								"Обезмолвлены."
+
+		"DOTA_Tooltip_modifier_imba_trueshot"												"Trueshot Aura"
+		"DOTA_Tooltip_modifier_imba_trueshot_Description"									"Получение дополнительного урона в завивисмости от ловкости Drow."
+
+		"DOTA_Tooltip_modifier_imba_trueshot_active"										"Marksman's Presence"
+		"DOTA_Tooltip_modifier_imba_trueshot_active_Description"							"Trueshot Aura действует на крипов и дает дополнительную ловкость героям."
+
+		"DOTA_Tooltip_modifier_imba_fire_breath_debuff"										"Fire Breath"
+		"DOTA_Tooltip_modifier_imba_fire_breath_debuff_Description"							"Получаение урона со временем, замедление передвижения на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+
+		"DOTA_Tooltip_modifier_imba_ice_breath_debuff"										"Frost Breath"
+		"DOTA_Tooltip_modifier_imba_ice_breath_debuff_Description"							"Получаение урона со временем, замедление передвижения на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% и скорости атаки на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%"
+
+		"DOTA_Tooltip_modifier_imba_ice_path_freeze_debuff"									"Ice Path"
+		"DOTA_Tooltip_modifier_imba_ice_path_freeze_debuff_Description"						"Оглушены."
+
+		"DOTA_Tooltip_modifier_imba_ice_path_slow_debuff"									"Ice Path"
+		"DOTA_Tooltip_modifier_imba_ice_path_slow_debuff_Description"						"Замедленная скорость передвижения на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% и скорость атаки на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+
+		"DOTA_Tooltip_modifier_imba_liquid_fire_debuff"										"Liquid Fire"
+		"DOTA_Tooltip_modifier_imba_liquid_fire_debuff_Description"							"Получение урона со временем, замедлена скорость поворота на %MODIFIER_PROPERTY_TURN_RATE_PERCENTAGE%%% и скрость атаки на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+
+		"DOTA_Tooltip_modifier_imba_macropyre_debuff"										"Macropyre"
+		"DOTA_Tooltip_modifier_imba_macropyre_debuff_Description"							"ВЫ ГОРИТЕ! Получение огромного урона со временем."
+
+		"DOTA_Tooltip_modifier_imba_juggernaut_blade_fury"									"Blade Fury"
+		"DOTA_Tooltip_modifier_imba_juggernaut_blade_fury_Description"						"Иммунитет к магии, получение %dMODIFIER_PROPERTY_EVASION_CONSTANT%%% уворота, и нанесение урона ближайшим врагам."
+
+		"DOTA_Tooltip_modifier_imba_juggernaut_blade_dance_wind_dance"						"Wind Dance"
+		"DOTA_Tooltip_modifier_imba_juggernaut_blade_dance_wind_dance_Description"			"Получение %dMODIFIER_PROPERTY_STATS_AGILITY_BONUS% ловкости и %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% скорости передвижения."
+
+		"DOTA_Tooltip_modifier_imba_juggernaut_healing_ward_aura"							"Healing Ward"
+		"DOTA_Tooltip_modifier_imba_juggernaut_healing_ward_aura_Description"				"Регенерация %dMODIFIER_PROPERTY_HEALTH_REGEN_PERCENTAGE%%% от максимального здоровья в секунду."
+
+		"DOTA_Tooltip_modifier_imba_omni_slash_caster"										"Omnislash"
+		"DOTA_Tooltip_modifier_imba_omni_slash_caster_Description"							"Неуязвим. Рубит врагов в бешенстве."
+
+		"DOTA_Tooltip_modifier_imba_ebb_and_flow_tsunami"									"Tsunami"
+		"DOTA_Tooltip_modifier_imba_ebb_and_flow_tsunami_Description"						"Даёт все эффекты Tide , а также: Torrent стягивает врагов в его центр; Tidebringer кратковременно оглушает задетых врагов; Оглушение Ghost Ship длится дольше."
+
+		"DOTA_Tooltip_modifier_imba_ebb_and_flow_tide_low"									"Low Tide"
+		"DOTA_Tooltip_modifier_imba_ebb_and_flow_tide_low_Description"						"Увеличивает дальность применения Torrent и Ghost Ship со скипетром; увеличивает дальность удара по площади Tidebringer."
+
+		"DOTA_Tooltip_modifier_imba_ebb_and_flow_tide_red"									"Red Tide"
+		"DOTA_Tooltip_modifier_imba_ebb_and_flow_tide_red_Description"						"Увеличено замедление Torrent; Tidebringer замедляет задетых врагов; Ghost Ship замедляет задетых или притащенных врагов."
+
+		"DOTA_Tooltip_modifier_imba_ebb_and_flow_tide_flood"								"Flood Tide"
+		"DOTA_Tooltip_modifier_imba_ebb_and_flow_tide_flood_Description"					"Увеличивает урон всех заклинаний"
+
+		"DOTA_Tooltip_modifier_imba_ebb_and_flow_tide_high"									"High Tide"
+		"DOTA_Tooltip_modifier_imba_ebb_and_flow_tide_high_Description"						"Увеличивает радиус эффекта всех заклинаний"
+
+		"DOTA_Tooltip_modifier_imba_ebb_and_flow_tide_wave"									"Wave Break"
+		"DOTA_Tooltip_modifier_imba_ebb_and_flow_tide_wave_Description"						"Torrent срабатывает сразу; Перезарядка Tidebringer'а не срабатывает; скорость Ghost Ship увеличена"
+
+		"DOTA_Tooltip_modifier_imba_torrent_slow"											"Torrent"
+		"DOTA_Tooltip_modifier_imba_torrent_slow_Description"								"Скорость передвижения уменьшена на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+
+		"DOTA_Tooltip_modifier_imba_tidebringer_slow"										"Tidebringer"
+		"DOTA_Tooltip_modifier_imba_tidebringer_slow_Description"							"Скорость передвижения уменьшена на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+
+		"DOTA_Tooltip_modifier_imba_x_marks_the_spot"										"X Marks The Spot"
+		"DOTA_Tooltip_modifier_imba_x_marks_the_spot_Description"							"Скоро будет возвращен к отметке Х."
+
+		"DOTA_Tooltip_modifier_imba_ghostship_rum"											"The Admiral's Rum"
+		"DOTA_Tooltip_modifier_imba_ghostship_rum_Description"								"ВЫ ПЬЯНЫ! Выпив ром, который дал вам Kunkka, вы чувствуете лишь часть боли, но то что вы не почувствовали вы ощутите на себе потом."
+
+		"DOTA_Tooltip_modifier_imba_ghostship_rum_damage"									"The Admiral's Rum"
+		"DOTA_Tooltip_modifier_imba_ghostship_rum_damage_Description"						"Похмелье от рома, который дал вам Kunkka. Вы чувствуете всё то, что игнорировали раньше."
+
+		"DOTA_Tooltip_modifier_imba_ghostship_tide_slow"									"Ghost Ship"
+		"DOTA_Tooltip_modifier_imba_ghostship_tide_slow_Description"						"Скорость передвижения уменьшена на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+
+		"DOTA_Tooltip_modifier_imba_cold_front_debuff"										"Cold Front"
+		"DOTA_Tooltip_modifier_imba_cold_front_debuff_Description"							"Скорость передвижения уменьшена на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, скорость атаки на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%. Достаточное количество стаков заморозит вас."
+
+		"DOTA_Tooltip_modifier_imba_cold_front_freeze"										"Cold Front"
+		"DOTA_Tooltip_modifier_imba_cold_front_freeze_Description"							"Обездвижены и обезоружены."
+
+		"DOTA_Tooltip_modifier_imba_frost_nova_debuff"										"Frost Nova"
+		"DOTA_Tooltip_modifier_imba_frost_nova_debuff_Description"							"Скорость передвижения уменьшена на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, скорость атаки на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+
+		"DOTA_Tooltip_modifier_imba_frost_armor_buff"										"Ice Armor"
+		"DOTA_Tooltip_modifier_imba_frost_armor_buff_Description"							"Броня увеличена на %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
+
+		"DOTA_Tooltip_modifier_imba_frost_armor_debuff"										"Ice Armor"
+		"DOTA_Tooltip_modifier_imba_frost_armor_debuff_Description"							"Movement slowed by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, attack slowed by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%. Reaching zero stacks will disarm you."
+
+		"DOTA_Tooltip_modifier_imba_frost_armor_freeze"										"Ice Shackles"
+		"DOTA_Tooltip_modifier_imba_frost_armor_freeze_Description"							"Обезоружены."
+
+		"DOTA_Tooltip_modifier_imba_dark_ritual_creeps"										"Dark Ritual"
+		"DOTA_Tooltip_modifier_imba_dark_ritual_creeps_Description"							"Gaining %dMODIFIER_PROPERTY_HEALTH_BONUS% health, %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE% damage and %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% attack speed."
+
+		"DOTA_Tooltip_modifier_imba_dark_ritual_allied_sacrifice"							"Dark Ritual"
+		"DOTA_Tooltip_modifier_imba_dark_ritual_allied_sacrifice_Description"				"Уменьшение получаемого урона."
+
+		"DOTA_Tooltip_modifier_imba_dark_ritual_enemy_sacrifice"							"Dark Ritual"
+		"DOTA_Tooltip_modifier_imba_dark_ritual_enemy_sacrifice_Description"				"Gaining %dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%% attack damage and %dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE% spell power."
+
+		"DOTA_Tooltip_modifier_imba_chain_frost_slow"										"Chain Frost"
+		"DOTA_Tooltip_modifier_imba_chain_frost_slow_Description"							"Movement slowed by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, attack slowed by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+
+		"DOTA_Tooltip_modifier_imba_fiery_soul_counter"										"Fiery Soul"
+		"DOTA_Tooltip_modifier_imba_fiery_soul_counter_Description"							"Gaining %dMODIFIER_PROPERTY_COOLDOWN_PERCENTAGE%%% cooldown reduction, %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% movement speed, and %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% attack speed."
+
+		"DOTA_Tooltip_modifier_imba_blazing_strike"											"Blazing Strike"
+		"DOTA_Tooltip_modifier_imba_blazing_strike_Description"								"Получение урона со временем"
+
+		"DOTA_Tooltip_modifier_imba_starfall_scepter_thinker"								"Starstorm Cooldown"
+		"DOTA_Tooltip_modifier_imba_starfall_scepter_thinker_Description"					"Пассивное срабатывание Starstorm на врагов когда перезаряжен."
+
+		"DOTA_Tooltip_modifier_imba_sacred_arrow_stun"										"Sacred Arrow"
+		"DOTA_Tooltip_modifier_imba_sacred_arrow_stun_Description"							"Оглушены. Первая атака врага по вам будет критической."
+
+		"DOTA_Tooltip_modifier_imba_sacred_arrow_haste"										"On The Prowl"
+		"DOTA_Tooltip_modifier_imba_sacred_arrow_haste_Description"							"Moving at %dMODIFIER_PROPERTY_MOVESPEED_BASE_OVERRIDE% speed. First hit on the arrowed enemy will be an automatic critical hit."
+
+		"DOTA_Tooltip_modifier_imba_leap_aura"												"Roar of the Stars"
+		"DOTA_Tooltip_modifier_imba_leap_aura_Description"									"Даёт ближайшим союзникам дополнительную скорость передвижения и атаки."
+
+		"DOTA_Tooltip_modifier_imba_leap_speed_boost"										"Roar of the Stars"
+		"DOTA_Tooltip_modifier_imba_leap_speed_boost_Description"							"Gaining %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% movement speed and %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% attack speed."
+
+		"DOTA_Tooltip_modifier_imba_moonlight_shadow"										"Moonlight Shadow"
+		"DOTA_Tooltip_modifier_imba_moonlight_shadow_Description"							"Даёт союзным юнитам постоянную невидимость."
+
+		"DOTA_Tooltip_modifier_imba_moonlight_shadow_invis_dummy"							"Moonlight Shadow"
+		"DOTA_Tooltip_modifier_imba_moonlight_shadow_invis_dummy_Description"				"Invisible. Immune to True Sight as long as there are no nearby enemy heroes."		
+
+		"DOTA_Tooltip_modifier_imba_moonlight_shadow_invis_fade_time"						"Moonlight Shadow"
+		"DOTA_Tooltip_modifier_imba_moonlight_shadow_invis_fade_time_Description"			"Invisible after fade-time."
+
+		"DOTA_Tooltip_modifier_imba_ghost_shroud_aura_debuff"								"Ghost Shroud"
+		"DOTA_Tooltip_modifier_imba_ghost_shroud_aura_debuff_Description"					"Immune to physical damage, but taking %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_DECREPIFY_UNIQUE%%% more magical damage. Also slowing nearby enemies and increasing healing received by nearby allies."
+
+		"DOTA_Tooltip_modifier_imba_ghost_shroud_debuff"									"Ghost Shroud"
+		"DOTA_Tooltip_modifier_imba_ghost_shroud_debuff_Description"						"Movement speed slowed by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+
+		"DOTA_Tooltip_modifier_imba_ghost_shroud_buff"										"Ghost Shroud"
+		"DOTA_Tooltip_modifier_imba_ghost_shroud_buff_Description"							"Увеличенное лечение и регенерация."
+
+		"DOTA_Tooltip_modifier_imba_heartstopper_aura_damage"								"Heartstopper Aura"
+		"DOTA_Tooltip_modifier_imba_heartstopper_aura_damage_Description"					"Потеря здоровья со временем. РегенерациNatural health regen and received healing decreased by %dMODIFIER_PROPERTY_HEAL_AMPLIFY_PERCENTAGE%%%."
+
+		"DOTA_Tooltip_modifier_imba_sadist"													"Sadist"
+		"DOTA_Tooltip_modifier_imba_sadist_Description"										"Регенерация маны и здоровья."
+
+		"DOTA_Tooltip_modifier_imba_reapers_scythe"											"Reaper's Scythe"
+		"DOTA_Tooltip_modifier_imba_reapers_scythe_Description"								"Тебе пиздец."
+
+		"DOTA_Tooltip_modifier_imba_reapers_scythe_debuff"									"Reaper's Scythe"
+		"DOTA_Tooltip_modifier_imba_reapers_scythe_debuff_Description"						"Скорость атаки уменьшена на %dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%%, сила заклинаний уменьшена на %dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%."
+
+		"DOTA_Tooltip_modifier_imba_stalker_in_the_night"									"Stalker in the Night"
+		"DOTA_Tooltip_modifier_imba_stalker_in_the_night_Description"						"Получения стаков при каждом наступлении ночи. Hunter in the Night действует сильнее с каждым стаком."
+
+		"DOTA_Tooltip_modifier_imba_void_slow"												"Void"
+		"DOTA_Tooltip_modifier_imba_void_slow_Description"									"Атака и скорость передвижения значительно уменьшены."
+
+		"DOTA_Tooltip_modifier_imba_crippling_fear_silence"									"Crippling Fear"
+		"DOTA_Tooltip_modifier_imba_crippling_fear_silence_Description"						"Обезмолвлены, есть шанс промаха. Смерть наведет панику на ближайших союзников."
+
+		"DOTA_Tooltip_modifier_imba_hunter_in_the_night"									"Hunter in the Night"
+		"DOTA_Tooltip_modifier_imba_hunter_in_the_night_Description"						"Увеличенная скорость атаки, передвижения и дальность видимости. Стает сильнее с каждым стаком Stalker in the Night."
+
+		"DOTA_Tooltip_modifier_imba_darkness_night"											"Darkness"
+		"DOTA_Tooltip_modifier_imba_darkness_night_Description"								"Превращение дня в ночь."
+
+		"DOTA_Tooltip_modifier_imba_darkness_vision"										"Darkness"
+		"DOTA_Tooltip_modifier_imba_darkness_vision_Description"							"Дальность видимости уменьшена."
+
+		"DOTA_Tooltip_modifier_imba_impale_stun"											"Impaled"
+		"DOTA_Tooltip_modifier_imba_impale_stun_Description"								"Оглушены."
+
+		"DOTA_Tooltip_modifier_imba_mana_burn_parasite"										"Scarab Parasite"
+		"DOTA_Tooltip_modifier_imba_mana_burn_parasite_Description"							"Паразит, питающийся маной, был внедрен в ваше тело. Если оно сьест достаточно маны то оно взорвется."
+
+		"DOTA_Tooltip_modifier_imba_mana_burn_parasite_charged"								"Charged Scarab Parasite"
+		"DOTA_Tooltip_modifier_imba_mana_burn_parasite_charged_Description"					"Паразит наелся и скоро взорвется, нанося урон в зависимоти от сьеденной маны."
+
+		"DOTA_Tooltip_modifier_imba_spiked_carapace"										"Spiked Carapace"		
+		"DOTA_Tooltip_modifier_imba_spiked_carapace_Description"							"Отражение всего урона обратно к источнику и его сохранение для дальнейшего использования."
+
+		"DOTA_Tooltip_modifier_imba_spiked_carapace_stun"									"Spiked Carapace Stun"
+		"DOTA_Tooltip_modifier_imba_spiked_carapace_stun_Description"						"Оглушены с помощью Spiked Carapace."
+
+		"DOTA_Tooltip_modifier_imba_vendetta"												"Vendetta"		
+		"DOTA_Tooltip_modifier_imba_vendetta_Description"									"Gaining %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% movement speed and phased movement. Your next attack will deal massive bonus damage."
+
+		"DOTA_Tooltip_modifier_imba_vendetta_charge"										"Eye for an Eye"
+		"DOTA_Tooltip_modifier_imba_vendetta_charge_Description"							"Каждый стак увеличивает урон при вашей следующей атаке Vendetta."
+
+		"DOTA_Tooltip_modifier_imba_arcane_orb_buff"										"Intelligence Steal"
+		"DOTA_Tooltip_modifier_imba_arcane_orb_buff_Description"							"%dMODIFIER_PROPERTY_STATS_INTELLECT_BONUS% intelligence stolen from enemies."
+
+		"DOTA_Tooltip_modifier_imba_arcane_orb_debuff"										"Intelligence Steal"
+		"DOTA_Tooltip_modifier_imba_arcane_orb_debuff_Description"							"%dMODIFIER_PROPERTY_STATS_INTELLECT_BONUS% intelligence was stolen from you."
+
+		"DOTA_Tooltip_modifier_imba_astral_imprisonment"									"Astral Imprisonment"
+		"DOTA_Tooltip_modifier_imba_astral_imprisonment_Description"						"В ловушке-тюрьме, неуязвимы и недееспособны."
+
+		"DOTA_Tooltip_modifier_imba_essence_aura_buff"										"Essence Aura"
+		"DOTA_Tooltip_modifier_imba_essence_aura_buff_Description"							"Использование заклинания имеет шанс восстановить часть вашей маны."
+
+		"DOTA_Tooltip_modifier_imba_essence_aura_proc"										"Essence Synergy"
+		"DOTA_Tooltip_modifier_imba_essence_aura_proc_Description"							"Получение интеллекта от срабатывания Essence Aura у ближайших союзников."
+
+		"DOTA_Tooltip_modifier_imba_purification_buff"										"Purifiception"
+		"DOTA_Tooltip_modifier_imba_purification_buff_Description"							"Увеличенное лечение от всех источников. Дальнейшее лечение может увеличить количество стаков."
+
+		"DOTA_Tooltip_modifier_imba_purification_omniguard_ready"							"Omniguard Ready"
+		"DOTA_Tooltip_modifier_imba_purification_omniguard_ready_Description"				"Автоматическое срабатывание Purification при достижении критического здоровья."
+
+		"DOTA_Tooltip_modifier_imba_purification_omniguard_recharging"						"Omniguard Recharging"
+		"DOTA_Tooltip_modifier_imba_purification_omniguard_recharging_Description"			"Omniguard перезаряжается."
+
+		"DOTA_Tooltip_modifier_imba_repel"													"Repel"
+		"DOTA_Tooltip_modifier_imba_repel_Description"										"Даёт иммунитет к заклинаниями и 100% сопротивления магии."
+
+		"DOTA_Tooltip_modifier_imba_degen_debuff"											"Degen Aura Slow"
+		"DOTA_Tooltip_modifier_imba_degen_debuff_Description"								"Замедлены. Скорость атаки и передвижения уменьшены."
+
+		"DOTA_Tooltip_modifier_imba_guardian_angel"											"Guardian Angel"
+		"DOTA_Tooltip_modifier_imba_guardian_angel_Description"								"Имммунитет к физическому урону."
+
+		"DOTA_Tooltip_modifier_imba_guardian_angel_shield"									"Wings of the Omniscience"
+		"DOTA_Tooltip_modifier_imba_guardian_angel_shield_Description"						"Священный щит, защищающий вас от всего урона до тах пор, пока он не будет сломлен или истечёт его время действия."
+
+		"DOTA_Tooltip_modifier_imba_stifling_dagger_slow"									"Stifling Dagger"
+		"DOTA_Tooltip_modifier_imba_stifling_dagger_slow_Description"						"Slowed and granting vision to enemies"
+
+		"DOTA_Tooltip_DOTA_Tooltip_modifier_imba_blur_speed"								"Swift and Silent"
+		"DOTA_Tooltip_DOTA_Tooltip_modifier_imba_blur_speed_Description"					"Получение дополнительной скорости передвижения на небольшое время за каждый стак."
+
+		"DOTA_Tooltip_modifier_imba_phantom_strike_coup_de_grace"							"Dance of Death"
+		"DOTA_Tooltip_modifier_imba_phantom_strike_coup_de_grace_Description"				"Увеличен шанс Coup de Grace."
+
+		"DOTA_Tooltip_modifier_imba_phantom_strike"											"Phantom Strike"
+		"DOTA_Tooltip_modifier_imba_phantom_strike_Description"								"Получение дополнительной скорости атаки на небольшое время."
+
+		"DOTA_Tooltip_modifier_imba_coup_de_grace_crit"										"Die Hard"
+		"DOTA_Tooltip_modifier_imba_coup_de_grace_crit_Description"							"Получение дополнительного урона с каждым стаком."
+
+		"DOTA_Tooltip_modifier_imba_shadow_strike_debuff"									"Shadow Strike"
+		"DOTA_Tooltip_modifier_imba_shadow_strike_debuff_Description"						"Скорость передвижение снижена на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% и вы получаете урон со временем."
+
+		"DOTA_Tooltip_modifier_imba_scream_of_pain_reflect"									"Overwhelming Pain"
+		"DOTA_Tooltip_modifier_imba_scream_of_pain_reflect_Description"						"Отражение части нанесенного урона себе, вплоть до определенного порога."
+
+		"DOTA_Tooltip_modifier_imba_sonic_wave_daze"										"Dazed"
+		"DOTA_Tooltip_modifier_imba_sonic_wave_daze_Description"							"Передвижение и нацеливание происходит в противоположную сторону, что может вызвать промахи нацеливаемых умений."
+
+		"DOTA_Tooltip_modifier_item_ultimate_scepter_consumed"								"Aghanim's Scepter Synth"
+		"DOTA_Tooltip_modifier_item_ultimate_scepter_consumed_Description"					"Навсегда получены преимущества от Aghanim's Scepter, +14 к всем атрибутам, +300 здоровья, +250 маны"
+
+		"DOTA_Tooltip_modifier_imba_shrapnel_charges"										"Shrapnel Charges"
+		"DOTA_Tooltip_modifier_imba_shrapnel_charges_Description"							"Можно использовать Shrapnel при наличии хотя бы одного заряда."
+
+		"DOTA_Tooltip_modifier_imba_shrapnel_slow"											"Shrapnel"
+		"DOTA_Tooltip_modifier_imba_shrapnel_slow_Description"								"Замедлены. Sniper имеет возможность атаковать вас с любого расстояния, до тех пор, пока вы находитесь под Shrapnel."
+
+		"DOTA_Tooltip_modifier_imba_headshot_slow"											"Headshot"
+		"DOTA_Tooltip_modifier_imba_headshot_slow_Description"								"Movement slowed by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, attack slowed by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+
+		"DOTA_Tooltip_modifier_imba_perfectshot_stun"										"Perfect Shot"
+		"DOTA_Tooltip_modifier_imba_perfectshot_stun_Description"							"Оглушены."
+
+		"DOTA_Tooltip_modifier_imba_assassinate_cross"										"Assassinate"
+		"DOTA_Tooltip_modifier_imba_assassinate_cross_Description"							"Revealed to the enemy. A devastating shot will come shortly!"
+
+		"DOTA_Tooltip_modifier_imba_assassinate_ministun"									"Assassinate Ministun"
+		"DOTA_Tooltip_modifier_imba_assassinate_ministun_Description"						"Миниоглушение."
+
+		"DOTA_Tooltip_modifier_imba_hook_sharp_stack"										"Power Hook"
+		"DOTA_Tooltip_modifier_imba_hook_sharp_stack_Description"							"Increases Meat Hook's damage"
+
+		"DOTA_Tooltip_modifier_imba_hook_light_stack"										"Swift Hook"
+		"DOTA_Tooltip_modifier_imba_hook_light_stack_Description"							"Increases Meat Hook's speed and range"
+
+		"DOTA_Tooltip_modifier_imba_hook_target_enemy"										"Meat Hook"
+		"DOTA_Tooltip_modifier_imba_hook_target_enemy_Description"							"Вы беспомощное создание, которое скоро СОЖРУТ."
+
+		"DOTA_Tooltip_modifier_imba_hook_target_ally"										"Meat Hook"
+		"DOTA_Tooltip_modifier_imba_hook_target_ally_Description"							"ПУДЖ НЯША ВАС СПАС . . . или же он хочет вас сожрать? Кто знает"
+
+		"DOTA_Tooltip_modifier_imba_rot_slow"												"Rot"
+		"DOTA_Tooltip_modifier_imba_rot_slow_Description"									"Замедлены и получаете урон"
+
+		"DOTA_Tooltip_modifier_imba_flesh_heap_stacks"										"Flesh Heap"
+		"DOTA_Tooltip_modifier_imba_flesh_heap_stacks_Description"							"Получение дополнительной силы и сопротивляемости к магии"
+
+		"DOTA_Tooltip_modifier_imba_dismember"												"Dismember"
+		"DOTA_Tooltip_modifier_imba_dismember_Description"									"СВЕЖЕЕ МЯСЦО!!!"
+
+		"DOTA_Tooltip_modifier_imba_storm_bolt_crit"										"MANmentum"
+		"DOTA_Tooltip_modifier_imba_storm_bolt_crit_Description"							"Гарантированный критический удар при следующей атаке."
+
+		"DOTA_Tooltip_modifier_imba_great_cleave_active"									"Overkill"
+		"DOTA_Tooltip_modifier_imba_great_cleave_active_Description"						"Потеря возможности расстекающего удара, получение True Strike и игнорирование части вражеской брони."
+
+		"DOTA_Tooltip_modifier_imba_warcry"													"Warcry!!!"
+		"DOTA_Tooltip_modifier_imba_warcry_Description"										"Sven ТУТ чтобы помочь вам подкачаться! Увеличена броня, скорость передвижения и стойкость."
+
+		"DOTA_Tooltip_modifier_imba_warcry_immunity"										"Magic Immune"
+		"DOTA_Tooltip_modifier_imba_warcry_immunity_Description"							"Вы перекачались и у вас появился иммунитет к магии."
+
+		"DOTA_Tooltip_modifier_imba_god_strength"											"God's Strength"
+		"DOTA_Tooltip_modifier_imba_god_strength_Description"								"ВЫ НАКАЧАНЫ!!! УВЕЛИЧЕН УРОН!"
+
+		"DOTA_Tooltip_modifier_imba_god_strength_allies"									"God's Strength"
+		"DOTA_Tooltip_modifier_imba_god_strength_allies_Description"						"ВЫ НАКАЧАНЫ!!! УВЕЛИЧЕН УРОН!"
+
+		"DOTA_Tooltip_modifier_imba_proximity_mine_building_res"							"Building Mines Protection"
+		"DOTA_Tooltip_modifier_imba_proximity_mine_building_res_Description"				"Здание защищено от мин."
+
+		"DOTA_Tooltip_modifier_imba_statis_trap_root"										"Stasis Trap"
+		"DOTA_Tooltip_modifier_imba_statis_trap_root_Description"							"Обездвижены"
+
+		"DOTA_Tooltip_modifier_imba_statis_trap_electrocharge"								"Electrocharge"
+		"DOTA_Tooltip_modifier_imba_statis_trap_electrocharge_Description"					"Magnetizes nearby mines towards your location."
+		
+		"DOTA_Tooltip_modifier_imba_statis_trap_disarmed"									"Disarmed Stasis Trap"
+		"DOTA_Tooltip_modifier_imba_statis_trap_disarmed_Description"						"This Stasis Trap is disarmed; when it explodes, it will not root nearby enemies."
+
+		"DOTA_Tooltip_modifier_imba_blast_off_silence"										"Blast Off!"
+		"DOTA_Tooltip_modifier_imba_blast_off_silence_Description"							"Silenced by Blast Off!'s effect."
+
+		"DOTA_Tooltip_modifier_imba_remote_mine_inflammable"								"Inflammable"
+		"DOTA_Tooltip_modifier_imba_remote_mine_inflammable_Description"					"This mine will deal more damage and reach further for every stack of Inflammable."
+
+		"DOTA_Tooltip_modifier_imba_minefield_sign_detection"								"Active Minefield Sign"
+		"DOTA_Tooltip_modifier_imba_minefield_sign_detection_Description"					"Minefield Sign is active, preventing this mine from blowing up."
+
+		"DOTA_Tooltip_modifier_imba_burrowstrike_stun"										"Burrowstrike"
+		"DOTA_Tooltip_modifier_imba_burrowstrike_stun_Description"							"Оглушены."
+
+		"DOTA_Tooltip_modifier_imba_sandstorm_invis"										"Sandstorm"
+		"DOTA_Tooltip_modifier_imba_sandstorm_invis_Description"							"Invisible. Dealing damage to enemies and pulling them towards you."
+
+		"DOTA_Tooltip_modifier_imba_sandstorm_aura"											"Sandstorm Aura"
+		"DOTA_Tooltip_modifier_imba_sandstorm_aura_Description"								"Passively dealing damage to enemies and pulling them towards you."
+
+		"DOTA_Tooltip_modifier_imba_caustic_finale_poison"									"Caustic Finale Poison"
+		"DOTA_Tooltip_modifier_imba_caustic_finale_poison_Description"						"A poison is brewing inside your body and will explode when it expires."
+
+		"DOTA_Tooltip_modifier_imba_caustic_finale_debuff"									"Caustic Finale Slow"
+		"DOTA_Tooltip_modifier_imba_caustic_finale_debuff_Description"						"Slowed by a recent Caustic Finale explosion."
+
+		"DOTA_Tooltip_modifier_imba_epicenter_slow"											"Epicenter Slow"
+		"DOTA_Tooltip_modifier_imba_epicenter_slow_Description"								"Slowed by a pulse from Epicenter."
+
+		"DOTA_Tooltip_modifier_imba_rearm_animation"										"Rearm"
+		"DOTA_Tooltip_modifier_imba_rearm_animation_Description"							"Происходит перезарядка вашего арсенала."
+
+		"DOTA_Tooltip_modifier_imba_rearm_overdrive"										"Overdrive!"
+		"DOTA_Tooltip_modifier_imba_rearm_overdrive_Description"							"Увеличена сила заклинаний на %dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE% от отсутствующей маны."
+
+		"DOTA_Tooltip_modifier_imba_rearm_shield"											"Shield"
+		"DOTA_Tooltip_modifier_imba_rearm_shield_Description"								"Поглощение получаемого урона."
+
+		"DOTA_Tooltip_modifier_imba_laser_blind"											"Glare"
+		"DOTA_Tooltip_modifier_imba_laser_blind_Description"								"Полностью слепы, лишены возможность наносить повреждения физическими атаками."
+
+		"DOTA_Tooltip_modifier_imba_march_dismantle"										"Dismantled"
+		"DOTA_Tooltip_modifier_imba_march_dismantle_Description"							"Уменеьшеный урон за каждый стак."
+
+		"DOTA_Tooltip_modifier_imba_march_drone"											"Electrocuted"
+		"DOTA_Tooltip_modifier_imba_march_drone_Description"								"ДА вы с ума сходите . . ."
+
+		"DOTA_Tooltip_modifier_imba_venomous_gale"											"Venomous Gale"
+		"DOTA_Tooltip_modifier_imba_venomous_gale_Description"								"Замедлены на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% and taking continuous damage."
+
+		"DOTA_Tooltip_modifier_imba_poison_sting_debuff"									"Poison Sting"
+		"DOTA_Tooltip_modifier_imba_poison_sting_debuff_Description"						"Замедлены на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% and taking continuous damage."
+		
+		"DOTA_Tooltip_modifier_imba_poison_sting_debuff_ward"								"Poison Sting"
+		"DOTA_Tooltip_modifier_imba_poison_sting_debuff_ward_Description"					"Замедлены на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% and taking continuous damage."
+
+		"DOTA_Tooltip_modifier_imba_plague_ward"                                    		"Unruly growth"
+		"DOTA_Tooltip_modifier_imba_plague_ward"                                    		"Invulnerable as long as its attached Plague wards are alive."
+
+		"DOTA_Tooltip_modifier_imba_toxicity_debuff"										"Compound Toxicity"
+		"DOTA_Tooltip_modifier_imba_toxicity_debuff_Description"							"Magic resistance reduced by %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%."
+
+		"DOTA_Tooltip_modifier_imba_poison_nova"											"Poison Nova"
+		"DOTA_Tooltip_modifier_imba_poison_nova_Description"								"Taking extreme damage over time and spread to nearby allies."
+
+		"DOTA_Tooltip_modifier_imba_wave_of_terror"											"Wave of Terror"
+		"DOTA_Tooltip_modifier_imba_wave_of_terror_Description"								"Уменьшена броня и сила атаки"
+
+		"DOTA_Tooltip_modifier_imba_command_aura_positive"									"Vengeance Aura"
+		"DOTA_Tooltip_modifier_imba_command_aura_positive_Description"						"Увеличена атака и сила заклинаний"
+
+		"DOTA_Tooltip_modifier_imba_command_aura_negative"									"Vengeance Aura"
+		"DOTA_Tooltip_modifier_imba_command_aura_negative_Description"						"Уменьшена сила атаки и сила заклинаний"
+
+		"DOTA_Tooltip_modifier_imba_rancor"													"Rancor"
+		"DOTA_Tooltip_modifier_imba_rancor_Description"										"Каждый стак увеличивает силу заклинаний и силу атаки"
+
+		"DOTA_Tooltip_modifier_imba_faceless_void_chronocharges"							"Chronocharges"		
+		"DOTA_Tooltip_modifier_imba_faceless_void_chronocharges_Description"				"Валюта времени, позволяющая владыке времени повелевать ею по его усмотрению."
+
+		"DOTA_Tooltip_modifier_imba_faceless_void_time_walk_slow"							"Time Walk"
+		"DOTA_Tooltip_modifier_imba_faceless_void_time_walk_slow_Description"				"Slowed briefly."
+
+		"DOTA_Tooltip_modifier_imba_faceless_void_time_dilation_buff"						"Time Dilation"
+		"DOTA_Tooltip_modifier_imba_faceless_void_time_dilation_buff_Description"			"Скрорсть передвижения и атаку увеличен за каждый стак"
+
+		"DOTA_Tooltip_modifier_imba_faceless_void_time_dilation_slow"						"Time Dilation"
+		"DOTA_Tooltip_modifier_imba_faceless_void_time_dilation_slow_Description"			"Скорость передвижения и атаки уменьшен за каждый стак"
+
+		"DOTA_Tooltip_modifier_imba_faceless_void_time_lock_stun"							"Time Lock"
+		"DOTA_Tooltip_modifier_imba_faceless_void_time_lock_stun_Description"				"Остановлен во времени. Нет возможности двигаться на время действия."
+
+		"DOTA_Tooltip_modifier_imba_faceless_void_chronosphere_caster_buff"					"Chronosphere"
+		"DOTA_Tooltip_modifier_imba_faceless_void_chronosphere_caster_buff_Description"		"Скорость передвижения значительно увеличена, есть возможность передвигаться через врагов и холмы."
+
+		"DOTA_Tooltip_modifier_imba_strafe_aspd"											"Strafe"
+		"DOTA_Tooltip_modifier_imba_strafe_aspd_Description"								"Скорость атаки увеличена на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+
+		"DOTA_Tooltip_modifier_imba_strafe_mount"											"Strafe Mount"
+		"DOTA_Tooltip_modifier_imba_strafe_mount_Description"								"Mounted on an ally! Attack range increased."
+
+		"DOTA_Tooltip_modifier_imba_searing_arrows_active"									"Light My Way"
+		"DOTA_Tooltip_modifier_imba_searing_arrows_active_Description"						"ВЫ ГОРИТЕ! Даёт видимость врагам."
+
+		"DOTA_Tooltip_modifier_imba_skeleton_walk_invis"									"Skeleton Walk"
+		"DOTA_Tooltip_modifier_imba_skeleton_walk_invis_Description"						"Invisible, phased, and moving %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% faster."
+
+		"DOTA_Tooltip_modifier_imba_skeleton_walk_spook"									"Spooked!"
+		"DOTA_Tooltip_modifier_imba_skeleton_walk_spook_Description"						"Skeletons are spooky! Forced to run away from Clinkz."		
+
+		"DOTA_Tooltip_modifier_imba_skeleton_walk_talent_ms"								"Skeleton Walk"
+		"DOTA_Tooltip_modifier_imba_skeleton_walk_talent_ms_Description"					"Передвижение на  %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% быстрее."
+
+		"DOTA_Tooltip_modifier_imba_death_pact_buff"										"Death Pact"
+		"DOTA_Tooltip_modifier_imba_death_pact_buff_Description"							"Урон и здоровье увеличено."
+
+		"DOTA_Tooltip_modifier_imba_death_pact_talent_debuff"								"Marked for Death"
+		"DOTA_Tooltip_modifier_imba_death_pact_talent_debuff_Description"					"Сменть даст постоянный бонус к тому, кто использовал Death Pact."
+
+		"DOTA_Tooltip_modifier_imba_death_pact_talent_buff"									"Completed Death Pacts"
+		"DOTA_Tooltip_modifier_imba_death_pact_talent_buff_Description"						"Получение %dMODIFIER_PROPERTY_BASEATTACK_BONUSDAMAGE% урона и %dMODIFIER_PROPERTY_EXTRA_HEALTH_BONUS% здоровья от завершенных Death Pact."
+
+		"DOTA_Tooltip_modifier_imba_nether_blast_magic_res"									"Nether Weakness"
+		"DOTA_Tooltip_modifier_imba_nether_blast_magic_res_Description"						"Уменьшена сопротивляемость к магии."
+
+		"DOTA_Tooltip_modifier_imba_decrepify"												"Decrepify"
+		"DOTA_Tooltip_modifier_imba_decrepify_Description"									"В призрачной форме. Получение дополнительного урона от заклинаний. Когда Decrpify закончится, сохранённый урон будет выпущен."
+
+		"DOTA_Tooltip_modifier_imba_nether_ward_degen"										"Nether Ward"
+		"DOTA_Tooltip_modifier_imba_nether_ward_degen_Description"							"Регенерация мані уменьшена. Использование заклинания под єтим єффектом заставит ward ударить вас и реверсировать заклинанеи на вас."
+
+		"DOTA_Tooltip_modifier_imba_nether_ward"											"Nether Ward"
+		"DOTA_Tooltip_modifier_imba_nether_ward_Description"								"Мешает врагам использовать заклинания"
+
+		"DOTA_Tooltip_modifier_imba_nether_ward_debuff"										"Mana Flare"
+		"DOTA_Tooltip_modifier_imba_nether_ward_debuff_Description"							"Casting spells will result in a swift zap to the nether regions"
+
+		"DOTA_Tooltip_modifier_imba_polarize_debuff"										"Polarized"
+		"DOTA_Tooltip_modifier_imba_polarize_debuff_Description"							"Makes you more susceptible to Magnus' abilities."
+
+		"DOTA_Tooltip_modifier_imba_empower"												"Empower"
+		"DOTA_Tooltip_modifier_imba_empower_Description"									"Attacks will cleave and deal %dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%% increased damage."
+
+		"DOTA_Tooltip_modifier_imba_supercharged"											"Overcharge"
+		"DOTA_Tooltip_modifier_imba_supercharged_Description"								"Скорость передвижения увеличена на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, скорость атаки увеличена на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+
+		"DOTA_Tooltip_modifier_imba_skewer_slow"											"Skewered"
+		"DOTA_Tooltip_modifier_imba_skewer_slow_Description"								"Скорость передвижения уменьшена на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, Скорость передвижения уменьшена на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+
+		"DOTA_Tooltip_modifier_imba_skewer_entangle"										"Entangled"
+		"DOTA_Tooltip_modifier_imba_skewer_entangle_Description"							"Entangled inside another unit and unable to move."
+
+		"DOTA_Tooltip_modifier_imba_reverse_polarity_slow"									"Reverse Polarity"
+		"DOTA_Tooltip_modifier_imba_reverse_polarity_slow_Description"						"Movement speed slowed by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+
+		"DOTA_Tooltip_modifier_imba_enigma_malefice_stun"									"Malefice"
+		"DOTA_Tooltip_modifier_imba_enigma_malefice_stun_Description"						"Stunned, being pulled to the strongest gravity source."
+		
+		"DOTA_Tooltip_modifier_eidolon_increased_mass_counter"								"Void Mass"
+		"DOTA_Tooltip_modifier_eidolon_increased_mass_counter_Description"					"Adds pull power towards gravity sources when being pulled by Enigma's abilities."
+
+		"DOTA_Tooltip_modifier_imba_enigma_gravity_well_stacks"								"Singularity"
+		"DOTA_Tooltip_modifier_imba_enigma_gravity_well_stacks_Description"					"Each stack increases Gravity Well's power."
+
+		"DOTA_Tooltip_modifier_imba_enigma_black_hole"										"Black Hole"
+		"DOTA_Tooltip_modifier_imba_enigma_black_hole_Description"							"Disabled, being pulled in and taking damage."
+
+		"DOTA_Tooltip_modifier_imba_berserkers_rage_slow"									"Hamstringed"
+		"DOTA_Tooltip_modifier_imba_berserkers_rage_slow_Description"						"Movement speed heavily decreased."
+		
+		"DOTA_Tooltip_modifier_imba_whirling_axes_melee"									"Blind Rage"
+		"DOTA_Tooltip_modifier_imba_whirling_axes_melee_Description"						"Will miss attacks until the stacks are depleted."
+
+		"DOTA_Tooltip_modifier_imba_whirling_axes_ranged"									"Whirling Axes"
+		"DOTA_Tooltip_modifier_imba_whirling_axes_ranged_Description"						"Movement speed slowed."
+
+		"DOTA_Tooltip_modifier_imba_fervor_stacks"											"Fervor"
+		"DOTA_Tooltip_modifier_imba_fervor_stacks_Description"								"Увеличена скорость атаки на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% and each consecutive attack on the same target increases it."
+
+		"DOTA_Tooltip_modifier_imba_battle_trance"											"Battle Trance"
+		"DOTA_Tooltip_modifier_imba_battle_trance_Description"								"Увеличена скорость атаки на %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+
+		"DOTA_Tooltip_modifier_imba_earthshock_slow"										"Earthshock"
+		"DOTA_Tooltip_modifier_imba_earthshock_slow_Description"							"Скорость передвижения уменьшена."
+
+		"DOTA_Tooltip_modifier_imba_trembling_steps_buff"									"Hulking Beast"
+		"DOTA_Tooltip_modifier_imba_trembling_steps_buff_Description"						"Moving will damage and slow nearby enemies."
+
+		"DOTA_Tooltip_modifier_imba_trembling_steps_debuff"									"Hulking Beast"
+		"DOTA_Tooltip_modifier_imba_trembling_steps_debuff_Description"						"Скорость передвижения уменьшена."
+
+		"DOTA_Tooltip_modifier_imba_overpower_buff"											"Overpower"
+		"DOTA_Tooltip_modifier_imba_overpower_buff_Description"								"Attack speed greatly increased."
+
+		"DOTA_Tooltip_modifier_imba_overpower_disarm"										"Bear Hug"
+		"DOTA_Tooltip_modifier_imba_overpower_disarm_Description"							"Обезоружены."
+
+		"DOTA_Tooltip_modifier_imba_fury_swipes_debuff"										"Fury Swipes"
+		"DOTA_Tooltip_modifier_imba_fury_swipes_debuff_Description"							"Получение увеличенного урона от Ursa."
+
+		"DOTA_Tooltip_modifier_imba_enrage_buff"											"Enrage"
+		"DOTA_Tooltip_modifier_imba_enrage_buff_Description"								"Уменьшение получаемого урона. Все умения перезаряжаются вдвое быстрее."
+
+		"DOTA_Tooltip_modifier_imba_scepter_enrage_prevent"									"Enrage Cooldown"
+		"DOTA_Tooltip_modifier_imba_scepter_enrage_prevent_Description"						"Автоматическая активация Enrage перезаряжается."
+
+		"DOTA_Tooltip_modifier_imba_scepter_enrage_damage"									"Enrage Ready"
+		"DOTA_Tooltip_modifier_imba_scepter_enrage_damage_Description"						"Enrage будет активирован автоматиченски при достижении его порога урона."
+
+		"DOTA_Tooltip_modifier_imba_fatal_bonds"											"Fatal Bonds"		
+		"DOTA_Tooltip_modifier_imba_fatal_bonds_Description"								"Связаны с союзниками, чувствуя часть боли которую чувствуют они при получении урона."
+
+		"DOTA_Tooltip_modifier_imba_shadow_word"											"Shadow Word"		
+		"DOTA_Tooltip_modifier_imba_shadow_word_Description"								"Taking damage if you're an enemy, or being healed if you're a friendly unit."
+
+		"DOTA_Tooltip_modifier_imba_upheaval_debuff"										"Upheaval"
+		"DOTA_Tooltip_modifier_imba_upheaval_debuff_Description"							"Slowed. Slow gets stronger the longer it is being chanelled."
+
+		"DOTA_Tooltip_modifier_imba_upheaval_buff"											"Golem Upheaval"
+		"DOTA_Tooltip_modifier_imba_upheaval_buff_Description"								"Increases the range of the Golem's abilities."
+
+		"DOTA_Tooltip_modifier_imba_rain_of_chaos_stun"										"Chaos Offering"
+		"DOTA_Tooltip_modifier_imba_rain_of_chaos_stun_Description"							"A demon ascends! Stunned."
+
+		"DOTA_Tooltip_modifier_imba_rain_of_chaos_demon_link"								"Demon Ascension"
+		"DOTA_Tooltip_modifier_imba_rain_of_chaos_demon_link_Description"					"Linked to Ascension Demons. Immune to damage and gains attack damage for each living demon."
+
+		"DOTA_Tooltip_modifier_imba_permanent_immolation_debuff"							"Permanent Immolation"
+		"DOTA_Tooltip_modifier_imba_permanent_immolation_debuff_Description"				"Burning! Taking damage every second from Golem."
+
+		"DOTA_Tooltip_modifier_imba_golem_spell_immunity"									"Spell Immunity"
+		"DOTA_Tooltip_modifier_imba_golem_spell_immunity_Description"						"Golem is protected from most magical abilities."
+
+		"DOTA_Tooltip_modifier_shadow_raze_combo"											"Shadow Combo"
+		"DOTA_Tooltip_modifier_shadow_raze_combo_Description"								"Enemy has started a combo! Reaching the maximum stacks will refresh his razes."
+
+		"DOTA_Tooltip_modifier_shadow_raze_prevention"										"Shadow Combo Cooldown"
+		"DOTA_Tooltip_modifier_shadow_raze_prevention_Description"							"Recently performed a Shadow Combo; cannot do so again for a while."
+
+		"DOTA_Tooltip_modifier_imba_necromastery_souls"										"Necromastery"
+		"DOTA_Tooltip_modifier_imba_necromastery_souls_Description"							"Gaining %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE% bonus damage on your attacks and razes."
+
+		"DOTA_Tooltip_modifier_imba_dark_lord_debuff"										"Presence of the Dark Lord"
+		"DOTA_Tooltip_modifier_imba_dark_lord_debuff_Description"							"Armor reduced by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
+
+		"DOTA_Tooltip_modifier_imba_reqiuem_debuff"											"Requiem of Souls"
+		"DOTA_Tooltip_modifier_imba_reqiuem_debuff_Description"								"Movement slowed by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%, attack damage reduced by %dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%%."
+
+		"DOTA_Tooltip_modifier_imba_reqiuem_harvest"										"Soul Frenzy"
+		"DOTA_Tooltip_modifier_imba_reqiuem_harvest_Description"							"Razes have no cooldown until Soul Frenzy ends or a raze misses."
+
+		"DOTA_Tooltip_modifier_imba_earthspike_stun"										"Earth Spike"
+		"DOTA_Tooltip_modifier_imba_earthspike_stun_Description"							"Оглушены."
+
+		"DOTA_Tooltip_modifier_imba_lion_hex"												"Hex"
+		"DOTA_Tooltip_modifier_imba_lion_hex_Description"									"ПРЕВРАЩЕНЫ В ЖАБУ! Через небольшой период времени hex распространится на ближайших союзников."
+
+		"DOTA_Tooltip_modifier_imba_manadrain_aura_debuff"									"Mana Drain Aura"
+		"DOTA_Tooltip_modifier_imba_manadrain_aura_debuff_Description"						"Вашу магическую энергию высасывают с вас со временем."
+
+		"DOTA_Tooltip_modifier_imba_manadrain_debuff"										"Mana Drain"
+		"DOTA_Tooltip_modifier_imba_manadrain_debuff_Description"							"Теряете ману и получаете урон равный потерянной мане."
+
+		"DOTA_Tooltip_modifier_imba_manadrain_buff"											"Mana Pump"
+		"DOTA_Tooltip_modifier_imba_manadrain_buff_Description"								"Being pumped with mana over time."
+
+		"DOTA_Tooltip_modifier_imba_trigger_finger_debuff"									"Trigger Finger"
+		"DOTA_Tooltip_modifier_imba_trigger_finger_debuff_Description"						"Recharged from killing an enemy. Casting Finger of Death again will cost more mana."
+
+		"DOTA_Tooltip_modifier_imba_finger_of_death_hex"									"Frog Panic"
+		"DOTA_Tooltip_modifier_imba_finger_of_death_hex_Description"						"Transformed very briefly into a frog."		
+
+		"DOTA_Tooltip_modifier_imba_lycan_wolf_charge"										"Wolf Pack"
+		"DOTA_Tooltip_modifier_imba_lycan_wolf_charge_Description"							"Whenever a wolf dies, a stack is consumed and another wolf joins Lycan."
+
+		"DOTA_Tooltip_modifier_imba_howl_buff"												"Howl"
+		"DOTA_Tooltip_modifier_imba_howl_buff_Description"									"Attack damage, move speed and maximum health increased. Phased if applied at night."
+
+		"DOTA_Tooltip_modifier_imba_feral_impulse"											"Feral Impulse"
+		"DOTA_Tooltip_modifier_imba_feral_impulse_Description"								"Attack damage and health regeneration increased."
+
+		"DOTA_Tooltip_modifier_imba_shapeshift"												"Shapeshift"
+		"DOTA_Tooltip_modifier_imba_shapeshift_Description"									"Unslowable, and moving beyond normal maximum speed. Attacks have a chance to crit."
+
+		"DOTA_Tooltip_modifier_imba_shapeshift_transform"									"Shapeshift"
+		"DOTA_Tooltip_modifier_imba_shapeshift_transform_Description"						"Transformed into a wolf."
+
+		"DOTA_Tooltip_modifier_imba_shapeshift_certain_crit"								"Unbound Savagery"
+		"DOTA_Tooltip_modifier_imba_shapeshift_certain_crit_Description"					"Next attack will be a guaranteed critical hit."
+
+		"DOTA_Tooltip_modifier_imba_wolfsbane_wolves"										"Wolfsbane"
+		"DOTA_Tooltip_modifier_imba_wolfsbane_wolves_Description"							"Increased damage for each successful kill as a pack."
+
+		"DOTA_Tooltip_modifier_imba_wolfsbane_lycan"										"Wolfsbane"
+		"DOTA_Tooltip_modifier_imba_wolfsbane_lycan_Description"							"Increased damage for each successful kill as a pack. Each stack reduces Shapeshift cooldown by 1 second."
+
+		"DOTA_Tooltip_modifier_imba_wolfsbane_lycan_prevent"								"Wolfsbane Cooldown"
+		"DOTA_Tooltip_modifier_imba_wolfsbane_lycan_prevent_Description"					"The pack has recently hunted! Cannot benefit from Wolfsbane for the duration."
+
+		"DOTA_Tooltip_modifier_imba_summoned_wolf_wicked_crunch_debuff"						"Wicked Crunch"
+		"DOTA_Tooltip_modifier_imba_summoned_wolf_wicked_crunch_debuff_Description"			"Next Lycan attack will lifesteal and deal bonus damage."
+
+		"DOTA_Tooltip_modifier_imba_arcane_bolt_buff"										"Arcane Wrath"
+		"DOTA_Tooltip_modifier_imba_arcane_bolt_buff_Description"							"Each stack increases Arcane Bolt projectile speed and damage, and increases Mystic Nova's damage."
+
+		"DOTA_Tooltip_modifier_imba_concussive_shot_slow"									"Concussive Shot"
+		"DOTA_Tooltip_modifier_imba_concussive_shot_slow_Description"						"Замедлены."
+
+		"DOTA_Tooltip_modifier_imba_ancient_seal_main"										"Ancient Seal"
+		"DOTA_Tooltip_modifier_imba_ancient_seal_main_Description"							"Silenced, and taking increased magic damage."
+
+		"DOTA_Tooltip_modifier_imba_ancient_seal_secondary"									"Embedded Seal"
+		"DOTA_Tooltip_modifier_imba_ancient_seal_secondary_Description"						"Affected by the seal on the ground! Silenced and taking increased magic damage."
+
+		"DOTA_Tooltip_modifier_imba_guardian_sprint_buff"									"Guardian Sprint"
+		"DOTA_Tooltip_modifier_imba_guardian_sprint_buff_Description"						"Phased and gaining bonus move speed."
+
+		"DOTA_Tooltip_modifier_imba_rip_current_stun"										"Rip Current"
+		"DOTA_Tooltip_modifier_imba_rip_current_stun_Description"							"Оглушены."
+
+		"DOTA_Tooltip_modifier_imba_rip_current_slow"										"Rip Current"
+		"DOTA_Tooltip_modifier_imba_rip_current_slow_Description"							"Slowed by Rip Current."
+
+		"DOTA_Tooltip_modifier_imba_slithereen_crush_stun"									"Slithereen Crush"
+		"DOTA_Tooltip_modifier_imba_slithereen_crush_stun_Description"						"Оглушены."
+
+		"DOTA_Tooltip_modifier_imba_slithereen_crush_slow"									"Slithereen Crush"
+		"DOTA_Tooltip_modifier_imba_slithereen_crush_slow_Description"						"Movement speed slowed."
+
+		"DOTA_Tooltip_modifier_imba_slithereen_crush_royal_break"							"Royal Break"
+		"DOTA_Tooltip_modifier_imba_slithereen_crush_royal_break_Description"				"Unable to evade or block attacks."
+
+		"DOTA_Tooltip_modifier_imba_bash_of_the_deep_stun"									"Bash of The Deep"
+		"DOTA_Tooltip_modifier_imba_bash_of_the_deep_stun_Description"						"Stunned, bashed, IN YOUR FACE!"
+
+		"DOTA_Tooltip_modifier_imba_rain_cloud_buff"										"Rain Cloud"
+		"DOTA_Tooltip_modifier_imba_rain_cloud_buff_Description"							"Slardar's skills are stronger under the Rain Cloud."
+
+		"DOTA_Tooltip_modifier_imba_corrosive_haze_debuff"									"Corrosive Haze"
+		"DOTA_Tooltip_modifier_imba_corrosive_haze_debuff_Description"						"Reduced armor. Visible to the enemy team."
+
+		"DOTA_Tooltip_modifier_imba_corrosive_haze_debuff_secondary"						"Corrosive Haze"
+		"DOTA_Tooltip_modifier_imba_corrosive_haze_debuff_secondary_Description"			"Reduced armor. Visible to the enemy team."
+
+		"DOTA_Tooltip_modifier_imba_corrosive_haze_slip_debuff"								"Slipstream"
+		"DOTA_Tooltip_modifier_imba_corrosive_haze_slip_debuff_Description"					"Movement speed greatly slowed."
+
+		"DOTA_Tooltip_modifier_imba_arcane_curse_debuff"									"Arcane Curse"
+		"DOTA_Tooltip_modifier_imba_arcane_curse_debuff_Description"						"Slowed and taking damage. Casting spells will extend the debuff's duration and increase damage/mana burn dealt."
+
+		"DOTA_Tooltip_modifier_imba_silencer_last_word_debuff"								"Last Word"
+		"DOTA_Tooltip_modifier_imba_silencer_last_word_debuff_Description"					"Disarmed. Casting spells will repeat Last Word after silence ends."
+
+		"DOTA_Tooltip_modifier_imba_silencer_last_word_repeat_thinker"						"Last Word"
+		"DOTA_Tooltip_modifier_imba_silencer_last_word_repeat_thinker_Description"			"Вы поняли что ваш выбор был неверным.  Last Word будет наложен снова после окончания."
+
+		"DOTA_Tooltip_imba_silencer_last_word_silence_aura"									"Last Word"
+		"DOTA_Tooltip_imba_silencer_last_word_silence_aura_Description"						"Если вы это прочли - не используйте заклинаний без иммунитета к магии."
+
+		"DOTA_Tooltip_modifier_imba_silencer_arcane_supremacy"								"Intelligence Steal"
+		"DOTA_Tooltip_modifier_imba_silencer_arcane_supremacy_Description"					"Total intelligence stolen."
+
+		"DOTA_Tooltip_modifier_imba_silencer_glaives_int_damage"							"Decreased Intelligence"
+		"DOTA_Tooltip_modifier_imba_silencer_glaives_int_damage_Description"				"Temporarily, your arguments are no match for Nortrom."
+
+		"DOTA_Tooltip_modifier_imba_silencer_global_silence"								"Global Silence"
+		"DOTA_Tooltip_modifier_imba_silencer_global_silence_Description"					"Шшшш! Ты в библиотеке!"
+
+		"DOTA_Tooltip_modifier_imba_tiny_rolling_stone"										"Rolling Stone"
+		"DOTA_Tooltip_modifier_imba_tiny_rolling_stone_Description"							"Every stack of Rolling Stone provides movement speed and damage at the cost of attack speed."
+
+		"DOTA_Tooltip_modifier_craggy_exterior_blunt"										"Blunted Weapon"
+		"DOTA_Tooltip_modifier_craggy_exterior_blunt_Description"							"Damage reduced by %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%."
+
+		"DOTA_Tooltip_modifier_imba_riki_smoke_screen_debuff"								"Smoke Screen"
+		"DOTA_Tooltip_modifier_imba_riki_smoke_screen_debuff"								"Silenced, with a chance to miss attacks, and reduced turn rate, movement slowed, and vision range."
+		
+		"DOTA_Tooltip_modifier_imba_riki_blink_strike_debuff"								"Blink Struck"
+		"DOTA_Tooltip_modifier_imba_riki_blink_strike_debuff"								"Slowed turn rate."
+		
+		"DOTA_Tooltip_modifier_imba_riki_invisibility"										"Invisible"
+		"DOTA_Tooltip_modifier_imba_riki_invisibility"										"You are invisible. Breaking invisibility with a backstab will increase its agility multiplier."
+		
+		"DOTA_Tooltip_modifier_imba_riki_tricks_of_the_trade_primary"						"Tricks of the Trade"
+		"DOTA_Tooltip_modifier_imba_riki_tricks_of_the_trade_primary"						"Invulnerable and slashing enemies in the area."
+
+		"DOTA_Tooltip_modifier_imba_bloodseeker_bloodrage"									"Bloodrage"
+		"DOTA_Tooltip_modifier_imba_bloodseeker_bloodrage_Description"						"Taking and dealing increased damage. Also dealing damage over time to yourself and nearby units."
+
+		"DOTA_Tooltip_modifier_imba_bloodseeker_blood_bath_silence"							"Blood Rite"
+		"DOTA_Tooltip_modifier_imba_bloodseeker_blood_bath_silence_Description"				"Silenced. Dying will reduce Bloodseeker's cooldowns."
+
+		"DOTA_Tooltip_modifier_imba_bloodseeker_thirst_vision"								"Thirst"
+		"DOTA_Tooltip_modifier_imba_bloodseeker_thirst_vision_Description"					"Bloodseeker's thirst for blood exposes you."		
+
+		"DOTA_Tooltip_modifier_imba_bloodseeker_blood_bath_overheal"						"Nanauatzin"
+		"DOTA_Tooltip_modifier_imba_bloodseeker_blood_bath_overheal_Description"			"Gains bonus max health based on the damage dealt to enemies through Blood Rite."
+
+		"DOTA_Tooltip_modifier_imba_voodoo_restoration_heal"								"Voodoo Restoration Heal"
+		"DOTA_Tooltip_modifier_imba_voodoo_restoration_heal_Description"					"Regenerating health."
+
+		"DOTA_Tooltip_modifier_imba_maledict"												"Malediction"
+		"DOTA_Tooltip_modifier_imba_maledict_Description"									"Taking base damage every second and a percentage of lost health as burst damage every 4 seconds."
+
+		"DOTA_Tooltip_modifier_imba_wraithfire_blast_stun"									"Wraithfire Blast Stun"
+		"DOTA_Tooltip_modifier_imba_wraithfire_blast_stun_Description"						"Оглушены"
+
+		"DOTA_Tooltip_modifier_imba_wraithfire_blast_debuff"								"Wraithfire Blast"
+		"DOTA_Tooltip_modifier_imba_wraithfire_blast_debuff_Description"					"Slowed, taking damage every second. All damage you take will heal your attackers."
+
+		"DOTA_Tooltip_modifier_imba_vampiric_aura_buff"										"Vampiric Aura"		
+		"DOTA_Tooltip_modifier_imba_vampiric_aura_buff_Description"							"You will be healed whenever you deal any damage to an enemy."
+		
+		"DOTA_Tooltip_modifier_imba_mortal_strike_buff"										"Behold Your King"
+		"DOTA_Tooltip_modifier_imba_mortal_strike_buff_Description"							"Gains bonus health based on stacks from successful Mortal Strikes."
+
+		"DOTA_Tooltip_modifier_imba_reincarnation_wraith_form_buff"							"Wraith Form"
+		"DOTA_Tooltip_modifier_imba_reincarnation_wraith_form_buff_Description"				"Dying will transform you into a Wraith for a limited time, extending your life."
+
+		"DOTA_Tooltip_modifier_imba_reincarnation_wraith_form"								"Wraith Form"
+		"DOTA_Tooltip_modifier_imba_reincarnation_wraith_form_Description"					"Cannot die while in Wraith Form. When the effect ends, you'll die immediately."
+
+		"DOTA_Tooltip_modifier_imba_kingdom_come_slow"										"Kingdom Come Slow"
+		"DOTA_Tooltip_modifier_imba_kingdom_come_slow_Description"							"Move and attack speed heavily reduced."
+
+		"DOTA_Tooltip_modifier_imba_kingdom_come_stun"										"Kingdom Come Stun"
+		"DOTA_Tooltip_modifier_imba_kingdom_come_stun_Description"							"Оглушены."
+
+		"DOTA_Tooltip_modifier_imba_wraith_soul_strike"										"Soul Strike"
+		"DOTA_Tooltip_modifier_imba_wraith_soul_strike_Description"							"Deals pure damage to enemies when attacking. When stacks reach 0, the Wraith dies."
+
+		"DOTA_Tooltip_modifier_imba_wraith_soul_strike_slow"								"Soul Strike Slow"
+		"DOTA_Tooltip_modifier_imba_wraith_soul_strike_slow_Description"					"Замедлены."
