@@ -1,0 +1,117 @@
+"lang"
+{
+	"Language"		"English"
+
+	"Tokens"
+	{	
+		//=================================================================================================================
+		// Gamemode strings
+		//=================================================================================================================
+
+		"addon_game_name"																	"Dota IMBA"
+		"DOTA_GameMode_15"																	"Dota IMBA"
+		"game_mode_15_desc"																	"Everything is overpowered!"
+
+		"imba_introduction_line_01"															"Welcome to "
+		"imba_introduction_line_02"															"Dota IMBA v6.88!"
+		"imba_introduction_line_04"															"HAVE FUN!"
+
+		"imba_community_header"																"IMBA NEWS (click to hide)"
+		"imba_community_description"														"Arena mode is here, with an overthrow-like experience for everyone. Have you played it yet?"
+		"community_post_description_01"														"Our next patch will be the big 7.00 rework. Stay tuned!"
+		"community_post_description_02"														""
+		"community_discord_description"														"Join our discord server for in-house games without leavers, and for IMBA discussion!"
+		//"imba_community_description"														"Enjoy playing IMBA? Be a part of our Discord group, and find others who do the same!"
+		//"community_discord_description"														"Join for the latest IMBA news, live discussions about the game and the meta, and to play games without leavers! All playing regions welcome."
+		//"community_post_description_01"														"A big thank you to the people who mantain the Discord server: <font color='#FF7800'>Lionizer</font>, <font color='#FF7800'>Repairmanman</font>, <font color='#FF7800'>Bronnen</font>, <font color='#FF7800'>Rosalina</font>, and <font color='#FF7800'>MissileSpammer</font>."
+		//"community_post_description_02"														"Also, an enormous thank you to to all the people who have helped IMBA in one way or another through its history: <font color='#FF7800'>Hewdraw</font>, <font color='#FF7800'>BMD</font>, <font color='#FF7800'>Noya</font>, <font color='#FF7800'>DoctorGester</font>, <font color='#FF7800'>Pizzalol</font>, <font color='#FF7800'>Jimmydorry</font>, <font color='#FF7800'>SinZ</font>, <font color='#FF7800'>Ash47</font>, <font color='#FF7800'>Noobsauce</font>, <font color='#FF7800'>remisbest</font>, <font color='#FF7800'>avilv</font>, <font color='#FF7800'>Darthsawyer</font>, <font color='#FF7800'>Snipered</font>, <font color='#FF7800'>AtroCty</font>, <font color='#FF7800'>Zimberzimber</font>, <font color='#FF7800'>Duke_doto</font>, <font color='#FF7800'>Brice</font>, <font color='#FF7800'>Agroboy</font>, <font color='#FF7800'>Milski</font>, <font color='#FF7800'>[MNI]Kael'Thas</font>, <font color='#FF7800'>AbyssalMage</font>, <font color='#FF7800'>AndrewR</font>, <font color='#FF7800'>Call me catchy</font>, <font color='#FF7800'>Cealdre</font>, <font color='#FF7800'>Arumba</font>, <font color='#FF7800'>Dozer Senpai</font>, <font color='#FF7800'>Krink</font>, <font color='#FF7800'>MysteryImp</font>, <font color='#FF7800'>OveranuS</font>, <font color='#FF7800'>Tleety</font>, and <font color='#FF7800'>The motherfucking pterodactyl</font>."
+
+		"imba_player_abandon_message"														" has <font color='#FF0000'>abandoned</font> the fight!"
+		"imba_player_reconnect_message"														" is back to the fight!"
+
+		"imba_team_good_abandon_message"													"The cowardly Radiant have fled the battle! Game will end in 15 seconds if no player reconnects."
+		"imba_team_bad_abandon_message"														"The cowardly Dire have fled the battle! Game will end in 15 seconds if no player reconnects."
+
+		"imba_player_aegis_message"															" has picked up the <font color='#FF7800'>Aegis of the Immortal!</font>"
+		"imba_player_rapier_pickup_01"														" has picked up a level "
+		"imba_player_rapier_pickup_02"														" <font color='#FF7800'> Divine Rapier!</font>"
+		"imba_player_rapier_drop_01"														" has dropped a level "
+		"imba_player_rapier_drop_02"														" <font color='#FF7800'> Divine Rapier!</font>"
+
+		"imba_deathstreak_3"																" is on a <font color='#00FF40'><b>DYING SPREE!!</b></font>"
+		"imba_deathstreak_4"																" is being <font color='#5E00BD'><b>DOMINATED!!</b></font>"
+		"imba_deathstreak_5"																" is on a <font color='#FF0080'><b>MEGA DEATH</b></font> streak!!"
+		"imba_deathstreak_6"																" is <font color='#FF8000'><b>HOPELESS!!</b></font>"
+		"imba_deathstreak_7"																" is on a <font color='#808000'><b>WICKED FEEDING</b></font> streak!!"
+		"imba_deathstreak_8"																" is on a <font color='#FF80FF'><b>MONSTER FEED!!</b></font>"
+		"imba_deathstreak_9"																" is <font color='#FF0000'><b>GHOSTLIKE!!</b></font>"
+		"imba_deathstreak_10"																" is beyond <font color='#FF8000'><b>GHOSTLIKE</b></font>, someone FEED them!!"
+
+		"imba_gamemode_name_all_pick"														"All Pick"
+		"imba_gamemode_name_all_random"														"All Random"
+		"imba_gamemode_name_all_random_tooltip"												"Players will be forced to random, receiving bonus gold."
+		"imba_gamemode_name_10v10"															"All Pick (10v10)"
+		"imba_gamemode_name_random_omg"														"Random OMG"
+		"imba_gamemode_name_arena_mode"														"ARENA MODE"
+
+		"imba_confirm_pick_button"															"Select this hero"
+		"imba_hero_name_filler"																"Select your hero"
+		"imba_strength_hero_pick_list_title"												"Strength Heroes"
+		"imba_agility_hero_pick_list_title"													"Agility Heroes"
+		"imba_intelligence_hero_pick_list_title"											"Intelligence Heroes"
+
+		"imba_waiting_for_other_players_button"												"Waiting for other players..."
+		"imba_loading_heroes_button"														"Loading game..."
+		"imba_enter_game_button"															"Enter game!"
+
+		"imba_radiant_team_title"															"The Radiant"
+		"imba_dire_team_title"																"The Dire"
+
+		"imba_random_pick_button"															"RANDOM"
+		"imba_repick_button"																"Repick your hero"
+
+		"imba_gamemode_settings_title"														"Vote for the game type:"
+		"imba_gamemode_settings_regular"													"Normal"
+		"imba_gamemode_settings_regular_tooltip"											"Recommended settings, suited for a fast-paced game."
+		"imba_gamemode_settings_high"														"Hyper"
+		"imba_gamemode_settings_high_tooltip"												"Skips the early game directly into a intense, brawling, teamfight-oriented match."
+		"imba_gamemode_settings_extreme"													"Apocalypse"
+
+		"imba_gamemode_settings_lock_options"												"Lock game options"
+		"imba_gamemode_settings_lock_options_tooltip"										"Accept these game options and enter the game"
+		"imba_gamemode_settings_kills_to_end"												"Points to win:"
+		"imba_gamemode_settings_kills_to_end_tooltip"										"Determines how many kills a team needs to win the game."
+		"imba_gamemode_settings_bounty_multiplier"											"Bounty multiplier:"
+		"imba_gamemode_settings_bounty_multiplier_tooltip"									"Multiplies all gold and experience earned."
+		"imba_gamemode_settings_respawn_time"												"Respawn time reduction:"
+		"imba_gamemode_settings_respawn_time_tooltip"										"Decreases heroes' respawn timers."
+		"imba_gamemode_settings_tower_upgrades"												"Upgradable towers"
+		"imba_gamemode_settings_tower_upgrades_tooltip"										"Upon destroying one of a team's towers, all of that team's remaining towers will become stronger."
+		"imba_gamemode_settings_creep_power_title"											"Creep power:"
+		"imba_gamemode_settings_creep_power_title_tooltip"									"Grants creeps damage and health bonuses, which increase as the game progresses."
+		"imba_gamemode_settings_tower_power_title"											"Tower power:"
+		"imba_gamemode_settings_tower_power_title_tooltip"									"Grants towers bonus damage, health, armor and attack speed. Higher-tier towers gain stronger bonuses."
+		"imba_gamemode_settings_initial_gold_exp_title"										"Hero power:"
+		"imba_gamemode_settings_initial_gold_exp_title_tooltip"								"Determines heroes' starting/maximum level, and starting gold."
+		"imba_gamemode_settings_initial_gold"												"Initial gold:"
+		"imba_gamemode_settings_initial_gold_tooltip"										"Heroes' starting gold."
+		"imba_gamemode_settings_initial_level"												"Initial level:"
+		"imba_gamemode_settings_initial_level_tooltip"										"Heroes' starting level."
+		"imba_gamemode_settings_max_level"													"Max level:"
+		"imba_gamemode_settings_max_level_tooltip"											"The maximum level that heroes can reach."
+
+		"imba_gamemode_settings_power_1"													"Normal"
+		"imba_gamemode_settings_power_2"													"High"
+		"imba_gamemode_settings_power_3"													"Extreme"
+
+		"imba_gamemode_game_options_frantic"												"FRANTIC mode"
+		"imba_gamemode_game_options_frantic_enabled"										"On"
+		"imba_gamemode_game_options_frantic_disabled"										"Off"
+		"imba_gamemode_game_options_frantic_tooltip"										"All hero cooldowns, mana costs, and disable durations reduced by 70%."
+
+		"imba_arena_points_objective"														"TARGET"
+
+		"tower_abilities_radiant_upgrade"													"<font color='#FF0000'>Radiant's</font> Ancient feels threatened, and upgrades all its towers!"
+		"tower_abilities_dire_upgrade"														"<font color='#FF0000'>Dire's</font> Ancient feels threatened, and upgrades all its towers!"
+
+		"coup_de_grace_fatality"			
